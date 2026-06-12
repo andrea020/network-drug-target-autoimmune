@@ -1,0 +1,901 @@
+ensembl_id,symbol,gene_name,ot_score,disease
+ENSG00000105397,TYK2,tyrosine kinase 2,0.7518,rheumatoid_arthritis
+ENSG00000113302,IL12B,interleukin 12B,0.7328,rheumatoid_arthritis
+ENSG00000160712,IL6R,interleukin 6 receptor,0.7325,rheumatoid_arthritis
+ENSG00000232810,TNF,tumor necrosis factor,0.7166,rheumatoid_arthritis
+ENSG00000056972,TRAF3IP2,TRAF3 interacting protein 2,0.7139,rheumatoid_arthritis
+ENSG00000240972,MIF,macrophage migration inhibitory factor,0.6977,rheumatoid_arthritis
+ENSG00000096968,JAK2,Janus kinase 2,0.6934,rheumatoid_arthritis
+ENSG00000162434,JAK1,Janus kinase 1,0.6904,rheumatoid_arthritis
+ENSG00000159339,PADI4,peptidyl arginine deiminase 4,0.6893,rheumatoid_arthritis
+ENSG00000134242,PTPN22,protein tyrosine phosphatase non-receptor type 22,0.6799,rheumatoid_arthritis
+ENSG00000128604,IRF5,interferon regulatory factor 5,0.6359,rheumatoid_arthritis
+ENSG00000073756,PTGS2,prostaglandin-endoperoxide synthase 2,0.6337,rheumatoid_arthritis
+ENSG00000110944,IL23A,interleukin 23 subunit alpha,0.63,rheumatoid_arthritis
+ENSG00000112115,IL17A,interleukin 17A,0.6281,rheumatoid_arthritis
+ENSG00000113580,NR3C1,nuclear receptor subfamily 3 group C member 1,0.6265,rheumatoid_arthritis
+ENSG00000156738,MS4A1,membrane spanning 4-domains A1,0.6251,rheumatoid_arthritis
+ENSG00000196664,TLR7,toll like receptor 7,0.6245,rheumatoid_arthritis
+ENSG00000160856,FCRL3,Fc receptor like 3,0.6218,rheumatoid_arthritis
+ENSG00000239732,TLR9,toll like receptor 9,0.6214,rheumatoid_arthritis
+ENSG00000121594,CD80,CD80 molecule,0.6191,rheumatoid_arthritis
+ENSG00000105639,JAK3,Janus kinase 3,0.6183,rheumatoid_arthritis
+ENSG00000114013,CD86,CD86 molecule,0.6162,rheumatoid_arthritis
+ENSG00000138378,STAT4,signal transducer and activator of transcription 4,0.6161,rheumatoid_arthritis
+ENSG00000228716,DHFR,dihydrofolate reductase,0.6158,rheumatoid_arthritis
+ENSG00000095303,PTGS1,prostaglandin-endoperoxide synthase 1,0.6148,rheumatoid_arthritis
+ENSG00000102967,DHODH,dihydroorotate dehydrogenase (quinone),0.6042,rheumatoid_arthritis
+ENSG00000065989,PDE4A,phosphodiesterase 4A,0.603,rheumatoid_arthritis
+ENSG00000012779,ALOX5,arachidonate 5-lipoxygenase,0.5986,rheumatoid_arthritis
+ENSG00000101017,CD40,CD40 molecule,0.5963,rheumatoid_arthritis
+ENSG00000168811,IL12A,interleukin 12A,0.5958,rheumatoid_arthritis
+ENSG00000128059,PPAT,phosphoribosyl pyrophosphate amidotransferase,0.5883,rheumatoid_arthritis
+ENSG00000184588,PDE4B,phosphodiesterase 4B,0.5859,rheumatoid_arthritis
+ENSG00000113448,PDE4D,phosphodiesterase 4D,0.5847,rheumatoid_arthritis
+ENSG00000115594,IL1R1,interleukin 1 receptor type 1,0.5845,rheumatoid_arthritis
+ENSG00000105650,PDE4C,phosphodiesterase 4C,0.5813,rheumatoid_arthritis
+ENSG00000105675,ATP4A,ATPase H+/K+ transporting subunit alpha,0.5713,rheumatoid_arthritis
+ENSG00000186009,ATP4B,ATPase H+/K+ transporting subunit beta,0.566,rheumatoid_arthritis
+ENSG00000134460,IL2RA,interleukin 2 receptor subunit alpha,0.565,rheumatoid_arthritis
+ENSG00000160185,UBASH3A,ubiquitin associated and SH3 domain containing A,0.5621,rheumatoid_arthritis
+ENSG00000163599,CTLA4,cytotoxic T-lymphocyte associated protein 4,0.5612,rheumatoid_arthritis
+ENSG00000118503,TNFAIP3,TNF alpha induced protein 3,0.5559,rheumatoid_arthritis
+ENSG00000162594,IL23R,interleukin 23 receptor,0.553,rheumatoid_arthritis
+ENSG00000146232,NFKBIE,NFKB inhibitor epsilon,0.5512,rheumatoid_arthritis
+ENSG00000177663,IL17RA,interleukin 17 receptor A,0.5509,rheumatoid_arthritis
+ENSG00000172575,RASGRP1,RAS guanyl releasing protein 1,0.5479,rheumatoid_arthritis
+ENSG00000111252,SH2B3,SH2B adaptor protein 3,0.5477,rheumatoid_arthritis
+ENSG00000136573,BLK,"BLK proto-oncogene, Src family tyrosine kinase",0.5457,rheumatoid_arthritis
+ENSG00000112486,CCR6,C-C motif chemokine receptor 6,0.5372,rheumatoid_arthritis
+ENSG00000164307,ERAP1,endoplasmic reticulum aminopeptidase 1,0.5357,rheumatoid_arthritis
+ENSG00000107485,GATA3,GATA binding protein 3,0.5352,rheumatoid_arthritis
+ENSG00000137077,CCL21,C-C motif chemokine ligand 21,0.5348,rheumatoid_arthritis
+ENSG00000213626,LBH,LBH regulator of Wnt signaling pathway,0.5342,rheumatoid_arthritis
+ENSG00000136634,IL10,interleukin 10,0.5311,rheumatoid_arthritis
+ENSG00000139531,SUOX,sulfite oxidase,0.5264,rheumatoid_arthritis
+ENSG00000159128,IFNGR2,interferon gamma receptor 2,0.5253,rheumatoid_arthritis
+ENSG00000050628,PTGER3,prostaglandin E receptor 3,0.5242,rheumatoid_arthritis
+ENSG00000175354,PTPN2,protein tyrosine phosphatase non-receptor type 2,0.5228,rheumatoid_arthritis
+ENSG00000159216,RUNX1,RUNX family transcription factor 1,0.5223,rheumatoid_arthritis
+ENSG00000112149,CD83,CD83 molecule,0.5217,rheumatoid_arthritis
+ENSG00000056558,TRAF1,TNF receptor associated factor 1,0.5172,rheumatoid_arthritis
+ENSG00000136244,IL6,interleukin 6,0.515,rheumatoid_arthritis
+ENSG00000144218,AFF3,ALF transcription elongation factor 3,0.5122,rheumatoid_arthritis
+ENSG00000164691,TAGAP,T cell activation RhoGTPase activating protein,0.512,rheumatoid_arthritis
+ENSG00000112182,BACH2,BACH transcriptional regulator 2,0.5107,rheumatoid_arthritis
+ENSG00000145901,TNIP1,TNFAIP3 interacting protein 1,0.5096,rheumatoid_arthritis
+ENSG00000181751,MACIR,macrophage immunometabolism regulator,0.5096,rheumatoid_arthritis
+ENSG00000162924,REL,"REL proto-oncogene, NF-kB subunit",0.5066,rheumatoid_arthritis
+ENSG00000163508,EOMES,eomesodermin,0.5036,rheumatoid_arthritis
+ENSG00000150347,ARID5B,AT-rich interaction domain 5B,0.5027,rheumatoid_arthritis
+ENSG00000117115,PADI2,peptidyl arginine deiminase 2,0.501,rheumatoid_arthritis
+ENSG00000137265,IRF4,interferon regulatory factor 4,0.4971,rheumatoid_arthritis
+ENSG00000164512,ANKRD55,ankyrin repeat domain 55,0.4963,rheumatoid_arthritis
+ENSG00000010030,ETV7,ETS variant transcription factor 7,0.4899,rheumatoid_arthritis
+ENSG00000143226,FCGR2A,Fc gamma receptor IIa,0.4895,rheumatoid_arthritis
+ENSG00000116824,CD2,CD2 molecule,0.4891,rheumatoid_arthritis
+ENSG00000081985,IL12RB2,interleukin 12 receptor subunit beta 2,0.4878,rheumatoid_arthritis
+ENSG00000182010,RTKN2,rhotekin 2,0.4859,rheumatoid_arthritis
+ENSG00000153094,BCL2L11,BCL2 like 11,0.4838,rheumatoid_arthritis
+ENSG00000100321,SYNGR1,synaptogyrin 1,0.4829,rheumatoid_arthritis
+ENSG00000198369,SPRED2,sprouty related EVH1 domain containing 2,0.4797,rheumatoid_arthritis
+ENSG00000116793,PHTF1,putative homeodomain transcription factor 1,0.4794,rheumatoid_arthritis
+ENSG00000096395,MLN,motilin,0.4764,rheumatoid_arthritis
+ENSG00000117586,TNFSF4,TNF superfamily member 4,0.4761,rheumatoid_arthritis
+ENSG00000150637,CD226,CD226 molecule,0.4758,rheumatoid_arthritis
+ENSG00000154822,PLCL2,phospholipase C like 2,0.4754,rheumatoid_arthritis
+ENSG00000160224,AIRE,autoimmune regulator,0.4748,rheumatoid_arthritis
+ENSG00000134954,ETS1,"ETS proto-oncogene 1, transcription factor",0.4705,rheumatoid_arthritis
+ENSG00000109684,CLNK,cytokine dependent hematopoietic cell linker,0.4687,rheumatoid_arthritis
+ENSG00000007171,NOS2,nitric oxide synthase 2,0.4632,rheumatoid_arthritis
+ENSG00000113749,HRH2,histamine receptor H2,0.4628,rheumatoid_arthritis
+ENSG00000067182,TNFRSF1A,TNF receptor superfamily member 1A,0.4539,rheumatoid_arthritis
+ENSG00000122025,FLT3,fms related receptor tyrosine kinase 3,0.4523,rheumatoid_arthritis
+ENSG00000128815,WDFY4,WDFY family member 4,0.4523,rheumatoid_arthritis
+ENSG00000159110,IFNAR2,interferon alpha and beta receptor subunit 2,0.4505,rheumatoid_arthritis
+ENSG00000183621,ZNF438,zinc finger protein 438,0.4505,rheumatoid_arthritis
+ENSG00000119919,NKX2-3,NK2 homeobox 3,0.4502,rheumatoid_arthritis
+ENSG00000115267,IFIH1,interferon induced with helicase C domain 1,0.4491,rheumatoid_arthritis
+ENSG00000116701,NCF2,neutrophil cytosolic factor 2,0.4469,rheumatoid_arthritis
+ENSG00000169194,IL13,interleukin 13,0.4465,rheumatoid_arthritis
+ENSG00000020633,RUNX3,RUNX family transcription factor 3,0.445,rheumatoid_arthritis
+ENSG00000178233,TMEM151B,transmembrane protein 151B,0.4427,rheumatoid_arthritis
+ENSG00000026297,RNASET2,ribonuclease T2,0.4426,rheumatoid_arthritis
+ENSG00000182095,TNRC18,trinucleotide repeat containing 18,0.4425,rheumatoid_arthritis
+ENSG00000153066,TXNDC11,thioredoxin domain containing 11,0.4393,rheumatoid_arthritis
+ENSG00000170340,B3GNT2,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2",0.4391,rheumatoid_arthritis
+ENSG00000187605,TET3,tet methylcytosine dioxygenase 3,0.4389,rheumatoid_arthritis
+ENSG00000100906,NFKBIA,NFKB inhibitor alpha,0.4389,rheumatoid_arthritis
+ENSG00000178623,GPR35,G protein-coupled receptor 35,0.4378,rheumatoid_arthritis
+ENSG00000125538,IL1B,interleukin 1 beta,0.4373,rheumatoid_arthritis
+ENSG00000124507,PACSIN1,protein kinase C and casein kinase substrate in neurons 1,0.436,rheumatoid_arthritis
+ENSG00000133103,COG6,component of oligomeric golgi complex 6,0.4342,rheumatoid_arthritis
+ENSG00000104415,CCN4,cellular communication network factor 4,0.4329,rheumatoid_arthritis
+ENSG00000137414,FAM8A1,family with sequence similarity 8 member A1,0.4314,rheumatoid_arthritis
+ENSG00000167207,NOD2,nucleotide binding oligomerization domain containing 2,0.4308,rheumatoid_arthritis
+ENSG00000181634,TNFSF15,TNF superfamily member 15,0.4307,rheumatoid_arthritis
+ENSG00000157873,TNFRSF14,TNF receptor superfamily member 14,0.4303,rheumatoid_arthritis
+ENSG00000163362,INAVA,innate immunity activator,0.4291,rheumatoid_arthritis
+ENSG00000179583,CIITA,class II major histocompatibility complex transactivator,0.4283,rheumatoid_arthritis
+ENSG00000146221,DRC5,dynein regulatory complex subunit 5,0.4278,rheumatoid_arthritis
+ENSG00000182185,RAD51B,RAD51 paralog B,0.4271,rheumatoid_arthritis
+ENSG00000112116,IL17F,interleukin 17F,0.4271,rheumatoid_arthritis
+ENSG00000204498,NFKBIL1,NFKB inhibitor like 1,0.4259,rheumatoid_arthritis
+ENSG00000156234,CXCL13,C-X-C motif chemokine ligand 13,0.4258,rheumatoid_arthritis
+ENSG00000081059,TCF7,transcription factor 7,0.4254,rheumatoid_arthritis
+ENSG00000133789,SWAP70,switching B cell complex subunit SWAP70,0.4254,rheumatoid_arthritis
+ENSG00000174125,TLR1,toll like receptor 1,0.4251,rheumatoid_arthritis
+ENSG00000203963,C1orf141,chromosome 1 open reading frame 141,0.4242,rheumatoid_arthritis
+ENSG00000124608,AARS2,"alanyl-tRNA synthetase 2, mitochondrial",0.4239,rheumatoid_arthritis
+ENSG00000197208,SLC22A4,solute carrier family 22 member 4,0.423,rheumatoid_arthritis
+ENSG00000057663,ATG5,autophagy related 5,0.4219,rheumatoid_arthritis
+ENSG00000168243,GNG4,G protein subunit gamma 4,0.4194,rheumatoid_arthritis
+ENSG00000142606,MMEL1,membrane metalloendopeptidase like 1,0.4179,rheumatoid_arthritis
+ENSG00000112977,DAP,death associated protein,0.4176,rheumatoid_arthritis
+ENSG00000164400,CSF2,colony stimulating factor 2,0.4165,rheumatoid_arthritis
+ENSG00000065675,PRKCQ,protein kinase C theta,0.415,rheumatoid_arthritis
+ENSG00000096433,ITPR3,"inositol 1,4,5-trisphosphate receptor type 3",0.4149,rheumatoid_arthritis
+ENSG00000155849,ELMO1,engulfment and cell motility 1,0.4106,rheumatoid_arthritis
+ENSG00000226979,LTA,lymphotoxin alpha,0.4097,rheumatoid_arthritis
+ENSG00000165025,SYK,spleen associated tyrosine kinase,0.4095,rheumatoid_arthritis
+ENSG00000120659,TNFSF11,TNF superfamily member 11,0.4086,rheumatoid_arthritis
+ENSG00000085978,ATG16L1,autophagy related 16 like 1,0.4063,rheumatoid_arthritis
+ENSG00000135605,TEC,tec protein tyrosine kinase,0.4061,rheumatoid_arthritis
+ENSG00000138386,NAB1,NGFI-A binding protein 1,0.4055,rheumatoid_arthritis
+ENSG00000082482,KCNK2,potassium two pore domain channel subfamily K member 2,0.4049,rheumatoid_arthritis
+ENSG00000153814,JAZF1,JAZF zinc finger 1,0.4027,rheumatoid_arthritis
+ENSG00000142224,IL19,interleukin 19,0.4016,rheumatoid_arthritis
+ENSG00000166428,PLD4,phospholipase D family member 4,0.4015,rheumatoid_arthritis
+ENSG00000196126,HLA-DRB1,"major histocompatibility complex, class II, DR beta 1",0.4005,rheumatoid_arthritis
+ENSG00000057657,PRDM1,PR/SET domain 1,0.3949,rheumatoid_arthritis
+ENSG00000081026,MAGI3,"membrane associated guanylate kinase, WW and PDZ domain containing 3",0.3934,rheumatoid_arthritis
+ENSG00000153093,ACOXL,acyl-CoA oxidase like,0.3933,rheumatoid_arthritis
+ENSG00000188316,ENO4,enolase 4,0.3931,rheumatoid_arthritis
+ENSG00000185811,IKZF1,IKAROS family zinc finger 1,0.3893,rheumatoid_arthritis
+ENSG00000120337,TNFSF18,TNF superfamily member 18,0.3893,rheumatoid_arthritis
+ENSG00000204520,MICA,MHC class I polypeptide-related sequence A,0.3886,rheumatoid_arthritis
+ENSG00000196262,PPIA,peptidylprolyl isomerase A,0.3875,rheumatoid_arthritis
+ENSG00000067715,SYT1,synaptotagmin 1,0.3874,rheumatoid_arthritis
+ENSG00000140030,GPR65,G protein-coupled receptor 65,0.3863,rheumatoid_arthritis
+ENSG00000196391,ZNF774,zinc finger protein 774,0.3852,rheumatoid_arthritis
+ENSG00000137288,UQCC2,ubiquinol-cytochrome c reductase complex assembly factor 2,0.3843,rheumatoid_arthritis
+ENSG00000136869,TLR4,toll like receptor 4,0.3836,rheumatoid_arthritis
+ENSG00000138795,LEF1,lymphoid enhancer binding factor 1,0.3835,rheumatoid_arthritis
+ENSG00000112033,PPARD,peroxisome proliferator activated receptor delta,0.3825,rheumatoid_arthritis
+ENSG00000177468,OLIG3,oligodendrocyte transcription factor 3,0.3812,rheumatoid_arthritis
+ENSG00000129993,CBFA2T3,CBFA2/RUNX1 partner transcriptional co-repressor 3,0.3799,rheumatoid_arthritis
+ENSG00000204516,MICB,MHC class I polypeptide-related sequence B,0.3797,rheumatoid_arthritis
+ENSG00000140368,PSTPIP1,proline-serine-threonine phosphatase interacting protein 1,0.3787,rheumatoid_arthritis
+ENSG00000185070,FLRT2,fibronectin leucine rich transmembrane protein 2,0.377,rheumatoid_arthritis
+ENSG00000076554,TPD52,tumor protein D52,0.3766,rheumatoid_arthritis
+ENSG00000115896,PLCL1,phospholipase C like 1 (inactive),0.374,rheumatoid_arthritis
+ENSG00000065361,ERBB3,erb-b2 receptor tyrosine kinase 3,0.3731,rheumatoid_arthritis
+ENSG00000026103,FAS,Fas cell surface death receptor,0.3729,rheumatoid_arthritis
+ENSG00000131196,NFATC1,nuclear factor of activated T cells 1,0.3704,rheumatoid_arthritis
+ENSG00000186635,ARAP1,"ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 1",0.3702,rheumatoid_arthritis
+ENSG00000103522,IL21R,interleukin 21 receptor,0.3698,rheumatoid_arthritis
+ENSG00000215912,TTC34,tetratricopeptide repeat domain 34,0.3694,rheumatoid_arthritis
+ENSG00000123106,CCDC91,coiled-coil domain containing 91,0.3676,rheumatoid_arthritis
+ENSG00000166501,PRKCB,protein kinase C beta,0.3666,rheumatoid_arthritis
+ENSG00000118094,TREH,trehalase,0.3659,rheumatoid_arthritis
+ENSG00000013725,CD6,CD6 molecule,0.3656,rheumatoid_arthritis
+ENSG00000079691,CARMIL1,capping protein regulator and myosin 1 linker 1,0.3644,rheumatoid_arthritis
+ENSG00000118655,DCLRE1B,DNA cross-link repair 1B,0.362,rheumatoid_arthritis
+ENSG00000083307,GRHL2,grainyhead like transcription factor 2,0.3613,rheumatoid_arthritis
+ENSG00000173531,MST1,macrophage stimulating 1,0.3605,rheumatoid_arthritis
+ENSG00000077238,IL4R,interleukin 4 receptor,0.36,rheumatoid_arthritis
+ENSG00000147138,GPR174,G protein-coupled receptor 174,0.3589,rheumatoid_arthritis
+ENSG00000007866,TEAD3,TEA domain transcription factor 3,0.3578,rheumatoid_arthritis
+ENSG00000116288,PARK7,Parkinsonism associated deglycase,0.3577,rheumatoid_arthritis
+ENSG00000166949,SMAD3,SMAD family member 3,0.3559,rheumatoid_arthritis
+ENSG00000152402,GUCY1A2,guanylate cyclase 1 soluble subunit alpha 2,0.3558,rheumatoid_arthritis
+ENSG00000102524,TNFSF13B,TNF superfamily member 13b,0.3555,rheumatoid_arthritis
+ENSG00000118007,STAG1,STAG1 cohesin complex component,0.3547,rheumatoid_arthritis
+ENSG00000030110,BAK1,BCL2 antagonist/killer 1,0.3547,rheumatoid_arthritis
+ENSG00000135426,TESPA1,"thymocyte expressed, positive selection associated 1",0.3544,rheumatoid_arthritis
+ENSG00000187796,CARD9,caspase recruitment domain family member 9,0.3543,rheumatoid_arthritis
+ENSG00000267673,FDX2,ferredoxin 2,0.3525,rheumatoid_arthritis
+ENSG00000136997,MYC,"MYC proto-oncogene, bHLH transcription factor",0.3512,rheumatoid_arthritis
+ENSG00000163687,DNASE1L3,deoxyribonuclease 1L3,0.3511,rheumatoid_arthritis
+ENSG00000109320,NFKB1,nuclear factor kappa B subunit 1,0.3494,rheumatoid_arthritis
+ENSG00000137501,SYTL2,synaptotagmin like 2,0.3482,rheumatoid_arthritis
+ENSG00000122359,ANXA11,annexin A11,0.3482,rheumatoid_arthritis
+ENSG00000139287,TPH2,tryptophan hydroxylase 2,0.3478,rheumatoid_arthritis
+ENSG00000186642,PDE2A,phosphodiesterase 2A,0.3472,rheumatoid_arthritis
+ENSG00000089012,SIRPG,signal regulatory protein gamma,0.3466,rheumatoid_arthritis
+ENSG00000168214,RBPJ,recombination signal binding protein for immunoglobulin kappa J region,0.3465,rheumatoid_arthritis
+ENSG00000064999,ANKS1A,ankyrin repeat and sterile alpha motif domain containing 1A,0.3461,rheumatoid_arthritis
+ENSG00000153064,BANK1,B cell scaffold protein with ankyrin repeats 1,0.3453,rheumatoid_arthritis
+ENSG00000163349,HIPK1,homeodomain interacting protein kinase 1,0.3447,rheumatoid_arthritis
+ENSG00000112062,MAPK14,mitogen-activated protein kinase 14,0.3437,rheumatoid_arthritis
+ENSG00000075618,FSCN1,fascin actin-bundling protein 1,0.3427,rheumatoid_arthritis
+ENSG00000138592,USP8,ubiquitin specific peptidase 8,0.3421,rheumatoid_arthritis
+ENSG00000117114,ADGRL2,adhesion G protein-coupled receptor L2,0.3418,rheumatoid_arthritis
+ENSG00000183117,CSMD1,CUB and Sushi multiple domains 1,0.3416,rheumatoid_arthritis
+ENSG00000100368,CSF2RB,colony stimulating factor 2 receptor subunit beta,0.3413,rheumatoid_arthritis
+ENSG00000170500,LONRF2,LON peptidase N-terminal domain and ring finger 2,0.3405,rheumatoid_arthritis
+ENSG00000164308,ERAP2,endoplasmic reticulum aminopeptidase 2,0.3399,rheumatoid_arthritis
+ENSG00000185436,IFNLR1,interferon lambda receptor 1,0.3389,rheumatoid_arthritis
+ENSG00000124614,RPS10,ribosomal protein S10,0.3383,rheumatoid_arthritis
+ENSG00000112273,HDGFL1,HDGF like 1,0.3381,rheumatoid_arthritis
+ENSG00000173578,XCR1,X-C motif chemokine receptor 1,0.3353,rheumatoid_arthritis
+ENSG00000133110,POSTN,periostin,0.3351,rheumatoid_arthritis
+ENSG00000196811,CHRNG,cholinergic receptor nicotinic gamma subunit,0.3332,rheumatoid_arthritis
+ENSG00000123096,SSPN,sarcospan,0.333,rheumatoid_arthritis
+ENSG00000138772,ANXA3,annexin A3,0.3329,rheumatoid_arthritis
+ENSG00000170345,FOS,"Fos proto-oncogene, AP-1 transcription factor subunit",0.3328,rheumatoid_arthritis
+ENSG00000170525,PFKFB3,"6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3",0.3325,rheumatoid_arthritis
+ENSG00000183715,OPCML,opioid binding protein/cell adhesion molecule like,0.3322,rheumatoid_arthritis
+ENSG00000087116,ADAMTS2,ADAM metallopeptidase with thrombospondin type 1 motif 2,0.332,rheumatoid_arthritis
+ENSG00000171735,CAMTA1,calmodulin binding transcription activator 1,0.3319,rheumatoid_arthritis
+ENSG00000115604,IL18R1,interleukin 18 receptor 1,0.3313,rheumatoid_arthritis
+ENSG00000170485,NPAS2,neuronal PAS domain protein 2,0.3313,rheumatoid_arthritis
+ENSG00000075426,FOSL2,"FOS like 2, AP-1 transcription factor subunit",0.3313,rheumatoid_arthritis
+ENSG00000149289,ZC3H12C,zinc finger CCCH-type containing 12C,0.331,rheumatoid_arthritis
+ENSG00000183722,LHFPL6,LHFPL tetraspan subfamily member 6,0.3309,rheumatoid_arthritis
+ENSG00000187164,SHTN1,shootin 1,0.3307,rheumatoid_arthritis
+ENSG00000151136,ABTB3,ankyrin repeat and BTB domain containing 3,0.3305,rheumatoid_arthritis
+ENSG00000108576,SLC6A4,solute carrier family 6 member 4,0.3299,rheumatoid_arthritis
+ENSG00000125676,THOC2,THO complex subunit 2,0.3298,rheumatoid_arthritis
+ENSG00000197635,DPP4,dipeptidyl peptidase 4,0.3297,rheumatoid_arthritis
+ENSG00000107249,GLIS3,GLIS family zinc finger 3,0.3293,rheumatoid_arthritis
+ENSG00000081237,PTPRC,protein tyrosine phosphatase receptor type C,0.3288,rheumatoid_arthritis
+ENSG00000152954,NRSN1,neurensin 1,0.3282,rheumatoid_arthritis
+ENSG00000131507,NDFIP1,Nedd4 family interacting protein 1,0.3281,rheumatoid_arthritis
+ENSG00000143013,LMO4,LIM domain only 4,0.3279,rheumatoid_arthritis
+ENSG00000111913,RIPOR2,RHO family interacting cell polarization regulator 2,0.3278,rheumatoid_arthritis
+ENSG00000170579,DLGAP1,DLG associated protein 1,0.3276,rheumatoid_arthritis
+ENSG00000120280,TASL,TLR adaptor interacting with endolysosomal SLC15A4,0.3276,rheumatoid_arthritis
+ENSG00000165092,ALDH1A1,aldehyde dehydrogenase 1 family member A1,0.3274,rheumatoid_arthritis
+ENSG00000188730,VWC2,von Willebrand factor C domain containing 2,0.327,rheumatoid_arthritis
+ENSG00000116761,CTH,cystathionine gamma-lyase,0.3269,rheumatoid_arthritis
+ENSG00000197561,ELANE,"elastase, neutrophil expressed",0.3265,rheumatoid_arthritis
+ENSG00000113763,UNC5A,unc-5 netrin receptor A,0.3263,rheumatoid_arthritis
+ENSG00000115009,CCL20,C-C motif chemokine ligand 20,0.3262,rheumatoid_arthritis
+ENSG00000169914,OTUD3,OTU deubiquitinase 3,0.3261,rheumatoid_arthritis
+ENSG00000112053,SLC26A8,solute carrier family 26 member 8,0.326,rheumatoid_arthritis
+ENSG00000197818,SLC9A8,solute carrier family 9 member A8,0.3257,rheumatoid_arthritis
+ENSG00000069482,GAL,galanin and GMAP prepropeptide,0.3257,rheumatoid_arthritis
+ENSG00000172572,PDE3A,phosphodiesterase 3A,0.3256,rheumatoid_arthritis
+ENSG00000073282,TP63,tumor protein p63,0.3249,rheumatoid_arthritis
+ENSG00000080854,IGSF9B,immunoglobulin superfamily member 9B,0.3247,rheumatoid_arthritis
+ENSG00000166037,CEP57,centrosomal protein 57,0.3247,rheumatoid_arthritis
+ENSG00000151789,ZNF385D,zinc finger protein 385D,0.3242,rheumatoid_arthritis
+ENSG00000116667,C1orf21,chromosome 1 open reading frame 21,0.3242,rheumatoid_arthritis
+ENSG00000204842,ATXN2,ataxin 2,0.3241,rheumatoid_arthritis
+ENSG00000125637,PSD4,pleckstrin and Sec7 domain containing 4,0.324,rheumatoid_arthritis
+ENSG00000079263,SP140,SP140 nuclear body protein,0.3236,rheumatoid_arthritis
+ENSG00000187122,SLIT1,slit guidance ligand 1,0.3234,rheumatoid_arthritis
+ENSG00000178175,ZNF366,zinc finger protein 366,0.3232,rheumatoid_arthritis
+ENSG00000154319,FAM167A,family with sequence similarity 167 member A,0.3231,rheumatoid_arthritis
+ENSG00000182308,DCAF4L1,DDB1 and CUL4 associated factor 4 like 1,0.3226,rheumatoid_arthritis
+ENSG00000257315,ZBED6,zinc finger BED-type containing 6,0.3224,rheumatoid_arthritis
+ENSG00000137818,RPLP1,ribosomal protein lateral stalk subunit P1,0.321,rheumatoid_arthritis
+ENSG00000171522,PTGER4,prostaglandin E receptor 4,0.3208,rheumatoid_arthritis
+ENSG00000116852,KIF21B,kinesin family member 21B,0.3196,rheumatoid_arthritis
+ENSG00000135048,CEMIP2,cell migration inducing hyaluronidase 2,0.3196,rheumatoid_arthritis
+ENSG00000196600,SLC22A25,solute carrier family 22 member 25,0.3194,rheumatoid_arthritis
+ENSG00000147883,CDKN2B,cyclin dependent kinase inhibitor 2B,0.3191,rheumatoid_arthritis
+ENSG00000280165,PCDH20,protocadherin 20,0.3191,rheumatoid_arthritis
+ENSG00000117616,RSRP1,arginine and serine rich protein 1,0.3189,rheumatoid_arthritis
+ENSG00000061273,HDAC7,histone deacetylase 7,0.3188,rheumatoid_arthritis
+ENSG00000108691,CCL2,C-C motif chemokine ligand 2,0.3188,rheumatoid_arthritis
+ENSG00000145623,OSMR,oncostatin M receptor,0.3185,rheumatoid_arthritis
+ENSG00000089250,NOS1,nitric oxide synthase 1,0.3177,rheumatoid_arthritis
+ENSG00000009413,REV3L,"REV3 like, DNA directed polymerase zeta catalytic subunit",0.3169,rheumatoid_arthritis
+ENSG00000106689,LHX2,LIM homeobox 2,0.3168,rheumatoid_arthritis
+ENSG00000164684,ZNF704,zinc finger protein 704,0.3167,rheumatoid_arthritis
+ENSG00000140718,FTO,FTO alpha-ketoglutarate dependent dioxygenase,0.3167,rheumatoid_arthritis
+ENSG00000163689,CFAP20DC,CFAP20 domain containing,0.3163,rheumatoid_arthritis
+ENSG00000178828,RNF186,ring finger protein 186,0.3161,rheumatoid_arthritis
+ENSG00000172969,FRG2C,FSHD region gene 2 family member C,0.3149,rheumatoid_arthritis
+ENSG00000116833,NR5A2,nuclear receptor subfamily 5 group A member 2,0.3142,rheumatoid_arthritis
+ENSG00000095110,NXPE1,neurexophilin and PC-esterase domain family member 1,0.3139,rheumatoid_arthritis
+ENSG00000107796,ACTA2,"actin alpha 2, smooth muscle",0.3137,rheumatoid_arthritis
+ENSG00000058673,ZC3H11A,zinc finger CCCH-type containing 11A,0.3134,rheumatoid_arthritis
+ENSG00000173253,DMRT2,doublesex and mab-3 related transcription factor 2,0.3129,rheumatoid_arthritis
+ENSG00000153310,CYRIB,CYFIP related Rac1 interactor B,0.3126,rheumatoid_arthritis
+ENSG00000272325,NUDT3,nudix hydrolase 3,0.3123,rheumatoid_arthritis
+ENSG00000185650,ZFP36L1,ZFP36 like 1 zinc finger CCCH-type,0.3114,rheumatoid_arthritis
+ENSG00000204291,COL15A1,collagen type XV alpha 1 chain,0.3106,rheumatoid_arthritis
+ENSG00000213047,DENND1B,DENN domain containing 1B,0.3105,rheumatoid_arthritis
+ENSG00000213689,TREX1,three prime repair exonuclease 1,0.7792,systemic_lupus
+ENSG00000163687,DNASE1L3,deoxyribonuclease 1L3,0.7549,systemic_lupus
+ENSG00000196664,TLR7,toll like receptor 7,0.7353,systemic_lupus
+ENSG00000136573,BLK,"BLK proto-oncogene, Src family tyrosine kinase",0.6823,systemic_lupus
+ENSG00000128604,IRF5,interferon regulatory factor 5,0.6636,systemic_lupus
+ENSG00000134242,PTPN22,protein tyrosine phosphatase non-receptor type 22,0.6342,systemic_lupus
+ENSG00000105397,TYK2,tyrosine kinase 2,0.6272,systemic_lupus
+ENSG00000102524,TNFSF13B,TNF superfamily member 13b,0.6231,systemic_lupus
+ENSG00000138378,STAT4,signal transducer and activator of transcription 4,0.6185,systemic_lupus
+ENSG00000163599,CTLA4,cytotoxic T-lymphocyte associated protein 4,0.618,systemic_lupus
+ENSG00000113580,NR3C1,nuclear receptor subfamily 3 group C member 1,0.6043,systemic_lupus
+ENSG00000117586,TNFSF4,TNF superfamily member 4,0.5974,systemic_lupus
+ENSG00000142166,IFNAR1,interferon alpha and beta receptor subunit 1,0.5758,systemic_lupus
+ENSG00000153064,BANK1,B cell scaffold protein with ankyrin repeats 1,0.5697,systemic_lupus
+ENSG00000118503,TNFAIP3,TNF alpha induced protein 3,0.5593,systemic_lupus
+ENSG00000145901,TNIP1,TNFAIP3 interacting protein 1,0.5497,systemic_lupus
+ENSG00000116701,NCF2,neutrophil cytosolic factor 2,0.5466,systemic_lupus
+ENSG00000136634,IL10,interleukin 10,0.538,systemic_lupus
+ENSG00000143226,FCGR2A,Fc gamma receptor IIa,0.5347,systemic_lupus
+ENSG00000164053,ATRIP,ATR interacting protein,0.5274,systemic_lupus
+ENSG00000172575,RASGRP1,RAS guanyl releasing protein 1,0.5201,systemic_lupus
+ENSG00000128815,WDFY4,WDFY family member 4,0.5161,systemic_lupus
+ENSG00000139370,SLC15A4,solute carrier family 15 member 4,0.5143,systemic_lupus
+ENSG00000117322,CR2,complement C3d receptor 2,0.5111,systemic_lupus
+ENSG00000239732,TLR9,toll like receptor 9,0.5111,systemic_lupus
+ENSG00000134954,ETS1,"ETS proto-oncogene 1, transcription factor",0.5034,systemic_lupus
+ENSG00000134460,IL2RA,interleukin 2 receptor subunit alpha,0.4879,systemic_lupus
+ENSG00000166278,C2,complement C2,0.4826,systemic_lupus
+ENSG00000152689,RASGRP3,RAS guanyl releasing protein 3,0.4825,systemic_lupus
+ENSG00000182326,C1S,complement C1s,0.4806,systemic_lupus
+ENSG00000081059,TCF7,transcription factor 7,0.4799,systemic_lupus
+ENSG00000026508,CD44,CD44 molecule (IN blood group),0.4795,systemic_lupus
+ENSG00000112182,BACH2,BACH transcriptional regulator 2,0.4787,systemic_lupus
+ENSG00000213626,LBH,LBH regulator of Wnt signaling pathway,0.4758,systemic_lupus
+ENSG00000213918,DNASE1,deoxyribonuclease 1,0.4721,systemic_lupus
+ENSG00000263528,IKBKE,inhibitor of nuclear factor kappa B kinase subunit epsilon,0.4697,systemic_lupus
+ENSG00000153814,JAZF1,JAZF zinc finger 1,0.4689,systemic_lupus
+ENSG00000159403,C1R,complement C1r,0.4662,systemic_lupus
+ENSG00000185811,IKZF1,IKAROS family zinc finger 1,0.465,systemic_lupus
+ENSG00000173369,C1QB,complement C1q B chain,0.4644,systemic_lupus
+ENSG00000102962,CCL22,C-C motif chemokine ligand 22,0.4623,systemic_lupus
+ENSG00000072694,FCGR2B,Fc gamma receptor IIb,0.4609,systemic_lupus
+ENSG00000081985,IL12RB2,interleukin 12 receptor subunit beta 2,0.4571,systemic_lupus
+ENSG00000150347,ARID5B,AT-rich interaction domain 5B,0.4545,systemic_lupus
+ENSG00000150637,CD226,CD226 molecule,0.4491,systemic_lupus
+ENSG00000113302,IL12B,interleukin 12B,0.4487,systemic_lupus
+ENSG00000117560,FASLG,Fas ligand,0.4461,systemic_lupus
+ENSG00000263001,GTF2I,general transcription factor IIi,0.4415,systemic_lupus
+ENSG00000096968,JAK2,Janus kinase 2,0.4388,systemic_lupus
+ENSG00000152127,MGAT5,"alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase",0.4386,systemic_lupus
+ENSG00000113532,ST8SIA4,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4",0.4383,systemic_lupus
+ENSG00000162341,TPCN2,two pore segment channel 2,0.4371,systemic_lupus
+ENSG00000175354,PTPN2,protein tyrosine phosphatase non-receptor type 2,0.4342,systemic_lupus
+ENSG00000198369,SPRED2,sprouty related EVH1 domain containing 2,0.4341,systemic_lupus
+ENSG00000065060,BLTP3A,bridge-like lipid transfer protein family member 3A,0.4329,systemic_lupus
+ENSG00000163823,CCR1,C-C motif chemokine receptor 1,0.4318,systemic_lupus
+ENSG00000154319,FAM167A,family with sequence similarity 167 member A,0.4251,systemic_lupus
+ENSG00000145214,DGKQ,diacylglycerol kinase theta,0.4247,systemic_lupus
+ENSG00000112679,DUSP22,dual specificity phosphatase 22,0.4221,systemic_lupus
+ENSG00000081237,PTPRC,protein tyrosine phosphatase receptor type C,0.4221,systemic_lupus
+ENSG00000120690,ELF1,E74 like ETS transcription factor 1,0.4213,systemic_lupus
+ENSG00000115267,IFIH1,interferon induced with helicase C domain 1,0.4167,systemic_lupus
+ENSG00000165383,LRRC18,leucine rich repeat containing 18,0.416,systemic_lupus
+ENSG00000030419,IKZF2,IKAROS family zinc finger 2,0.413,systemic_lupus
+ENSG00000012124,CD22,CD22 molecule,0.4101,systemic_lupus
+ENSG00000104365,IKBKB,inhibitor of nuclear factor kappa B kinase subunit beta,0.4082,systemic_lupus
+ENSG00000151690,MFSD6,major facilitator superfamily domain containing 6,0.4073,systemic_lupus
+ENSG00000143669,LYST,lysosomal trafficking regulator,0.4073,systemic_lupus
+ENSG00000168811,IL12A,interleukin 12A,0.4038,systemic_lupus
+ENSG00000244731,C4A,complement C4A (Chido/Rodgers blood group),0.4034,systemic_lupus
+ENSG00000187605,TET3,tet methylcytosine dioxygenase 3,0.4024,systemic_lupus
+ENSG00000156738,MS4A1,membrane spanning 4-domains A1,0.3989,systemic_lupus
+ENSG00000146197,SCUBE3,"signal peptide, CUB domain and EGF like domain containing 3",0.396,systemic_lupus
+ENSG00000115159,GPD2,glycerol-3-phosphate dehydrogenase 2,0.3922,systemic_lupus
+ENSG00000198178,CLEC4C,C-type lectin domain family 4 member C,0.3922,systemic_lupus
+ENSG00000151474,FRMD4A,FERM domain containing 4A,0.3909,systemic_lupus
+ENSG00000184216,IRAK1,interleukin 1 receptor associated kinase 1,0.3906,systemic_lupus
+ENSG00000038532,CLEC16A,C-type lectin domain containing 16A,0.3897,systemic_lupus
+ENSG00000168297,PXK,PX domain containing serine/threonine kinase like,0.3887,systemic_lupus
+ENSG00000224389,C4B,complement C4B (Chido/Rodgers blood group),0.3885,systemic_lupus
+ENSG00000173372,C1QA,complement C1q A chain,0.3869,systemic_lupus
+ENSG00000163932,PRKCD,protein kinase C delta,0.3838,systemic_lupus
+ENSG00000162434,JAK1,Janus kinase 1,0.3828,systemic_lupus
+ENSG00000170989,S1PR1,sphingosine-1-phosphate receptor 1,0.3827,systemic_lupus
+ENSG00000211896,IGHG1,immunoglobulin heavy constant gamma 1 (G1m marker),0.3816,systemic_lupus
+ENSG00000172493,AFF1,ALF transcription elongation factor 1,0.3811,systemic_lupus
+ENSG00000164362,TERT,telomerase reverse transcriptase,0.3778,systemic_lupus
+ENSG00000101017,CD40,CD40 molecule,0.3776,systemic_lupus
+ENSG00000121594,CD80,CD80 molecule,0.3769,systemic_lupus
+ENSG00000168685,IL7R,interleukin 7 receptor,0.3765,systemic_lupus
+ENSG00000109971,HSPA8,heat shock protein family A (Hsp70) member 8,0.3741,systemic_lupus
+ENSG00000130066,SAT1,spermidine/spermine N1-acetyltransferase 1,0.3738,systemic_lupus
+ENSG00000159958,TNFRSF13C,TNF receptor superfamily member 13C,0.3689,systemic_lupus
+ENSG00000057663,ATG5,autophagy related 5,0.3683,systemic_lupus
+ENSG00000115896,PLCL1,phospholipase C like 1 (inactive),0.3656,systemic_lupus
+ENSG00000112149,CD83,CD83 molecule,0.3607,systemic_lupus
+ENSG00000185338,SOCS1,suppressor of cytokine signaling 1,0.3547,systemic_lupus
+ENSG00000147168,IL2RG,interleukin 2 receptor subunit gamma,0.3541,systemic_lupus
+ENSG00000182185,RAD51B,RAD51 paralog B,0.3536,systemic_lupus
+ENSG00000127528,KLF2,KLF transcription factor 2,0.3533,systemic_lupus
+ENSG00000153094,BCL2L11,BCL2 like 11,0.3522,systemic_lupus
+ENSG00000196639,HRH1,histamine receptor H1,0.3518,systemic_lupus
+ENSG00000124203,ZNF831,zinc finger protein 831,0.3493,systemic_lupus
+ENSG00000100385,IL2RB,interleukin 2 receptor subunit beta,0.3484,systemic_lupus
+ENSG00000111276,CDKN1B,cyclin dependent kinase inhibitor 1B,0.3478,systemic_lupus
+ENSG00000119772,DNMT3A,DNA methyltransferase 3 alpha,0.3471,systemic_lupus
+ENSG00000189362,NEMP2,nuclear envelope integral membrane protein 2,0.3468,systemic_lupus
+ENSG00000120280,TASL,TLR adaptor interacting with endolysosomal SLC15A4,0.3463,systemic_lupus
+ENSG00000189283,FHIT,fragile histidine triad diadenosine triphosphatase,0.3463,systemic_lupus
+ENSG00000181634,TNFSF15,TNF superfamily member 15,0.3452,systemic_lupus
+ENSG00000106991,ENG,endoglin,0.3451,systemic_lupus
+ENSG00000204033,LRIT2,"leucine rich repeat, Ig-like and transmembrane domains 2",0.3444,systemic_lupus
+ENSG00000108510,MED13,mediator complex subunit 13,0.3418,systemic_lupus
+ENSG00000164512,ANKRD55,ankyrin repeat domain 55,0.3418,systemic_lupus
+ENSG00000142224,IL19,interleukin 19,0.3408,systemic_lupus
+ENSG00000073756,PTGS2,prostaglandin-endoperoxide synthase 2,0.3389,systemic_lupus
+ENSG00000124788,ATXN1,ataxin 1,0.3369,systemic_lupus
+ENSG00000166428,PLD4,phospholipase D family member 4,0.3365,systemic_lupus
+ENSG00000117592,PRDX6,peroxiredoxin 6,0.3364,systemic_lupus
+ENSG00000125347,IRF1,interferon regulatory factor 1,0.3356,systemic_lupus
+ENSG00000136697,IL1F10,interleukin 1 family member 10,0.3356,systemic_lupus
+ENSG00000178035,IMPDH2,inosine monophosphate dehydrogenase 2,0.3347,systemic_lupus
+ENSG00000177182,CLVS1,clavesin 1,0.3342,systemic_lupus
+ENSG00000106348,IMPDH1,inosine monophosphate dehydrogenase 1,0.3338,systemic_lupus
+ENSG00000157404,KIT,"KIT proto-oncogene, receptor tyrosine kinase",0.3337,systemic_lupus
+ENSG00000151948,GLT1D1,glycosyltransferase 1 domain containing 1,0.3335,systemic_lupus
+ENSG00000041515,MYO16,myosin XVI,0.3317,systemic_lupus
+ENSG00000149262,INTS4,integrator complex subunit 4,0.3316,systemic_lupus
+ENSG00000128059,PPAT,phosphoribosyl pyrophosphate amidotransferase,0.3316,systemic_lupus
+ENSG00000117036,ETV3,ETS variant transcription factor 3,0.3314,systemic_lupus
+ENSG00000127946,HIP1,huntingtin interacting protein 1,0.3309,systemic_lupus
+ENSG00000102245,CD40LG,CD40 ligand,0.3288,systemic_lupus
+ENSG00000160856,FCRL3,Fc receptor like 3,0.3286,systemic_lupus
+ENSG00000163818,LZTFL1,leucine zipper transcription factor like 1,0.3275,systemic_lupus
+ENSG00000181751,MACIR,macrophage immunometabolism regulator,0.327,systemic_lupus
+ENSG00000196776,CD47,CD47 molecule,0.3263,systemic_lupus
+ENSG00000116815,CD58,CD58 molecule,0.3263,systemic_lupus
+ENSG00000090104,RGS1,regulator of G protein signaling 1,0.3261,systemic_lupus
+ENSG00000026652,AGPAT4,1-acylglycerol-3-phosphate O-acyltransferase 4,0.3251,systemic_lupus
+ENSG00000183150,GPR19,G protein-coupled receptor 19,0.325,systemic_lupus
+ENSG00000175643,RMI2,RecQ mediated genome instability 2,0.3249,systemic_lupus
+ENSG00000257057,C11orf97,chromosome 11 open reading frame 97,0.3247,systemic_lupus
+ENSG00000000971,CFH,complement factor H,0.3235,systemic_lupus
+ENSG00000197043,ANXA6,annexin A6,0.3231,systemic_lupus
+ENSG00000111424,VDR,vitamin D receptor,0.3229,systemic_lupus
+ENSG00000185567,AHNAK2,AHNAK nucleoprotein 2,0.3229,systemic_lupus
+ENSG00000057657,PRDM1,PR/SET domain 1,0.3224,systemic_lupus
+ENSG00000137073,UBAP2,ubiquitin associated protein 2,0.322,systemic_lupus
+ENSG00000109684,CLNK,cytokine dependent hematopoietic cell linker,0.3219,systemic_lupus
+ENSG00000185737,NRG3,neuregulin 3,0.3219,systemic_lupus
+ENSG00000119919,NKX2-3,NK2 homeobox 3,0.3215,systemic_lupus
+ENSG00000144218,AFF3,ALF transcription elongation factor 3,0.3205,systemic_lupus
+ENSG00000056558,TRAF1,TNF receptor associated factor 1,0.3202,systemic_lupus
+ENSG00000155269,GPR78,G protein-coupled receptor 78,0.3197,systemic_lupus
+ENSG00000109927,TECTA,tectorin alpha,0.3197,systemic_lupus
+ENSG00000188467,SLC24A5,solute carrier family 24 member 5,0.3197,systemic_lupus
+ENSG00000171044,XKR6,XK related 6,0.3194,systemic_lupus
+ENSG00000131323,TRAF3,TNF receptor associated factor 3,0.3192,systemic_lupus
+ENSG00000165275,TRMT10B,tRNA methyltransferase 10B,0.3187,systemic_lupus
+ENSG00000095303,PTGS1,prostaglandin-endoperoxide synthase 1,0.3184,systemic_lupus
+ENSG00000183778,B3GALT5,"beta-1,3-galactosyltransferase 5",0.3184,systemic_lupus
+ENSG00000197467,COL13A1,collagen type XIII alpha 1 chain,0.3171,systemic_lupus
+ENSG00000198398,TMEM207,transmembrane protein 207,0.3168,systemic_lupus
+ENSG00000175745,NR2F1,nuclear receptor subfamily 2 group F member 1,0.3166,systemic_lupus
+ENSG00000064419,TNPO3,transportin 3,0.3163,systemic_lupus
+ENSG00000162676,GFI1,growth factor independent 1 transcriptional repressor,0.316,systemic_lupus
+ENSG00000113161,HMGCR,3-hydroxy-3-methylglutaryl-CoA reductase,0.3152,systemic_lupus
+ENSG00000116406,EDEM3,ER degradation enhancing alpha-mannosidase like protein 3,0.315,systemic_lupus
+ENSG00000159842,ABR,ABR activator of RhoGEF and GTPase,0.3144,systemic_lupus
+ENSG00000177614,PGBD5,piggyBac transposable element derived 5,0.3144,systemic_lupus
+ENSG00000085978,ATG16L1,autophagy related 16 like 1,0.3122,systemic_lupus
+ENSG00000184939,ZFP90,ZFP90 zinc finger protein,0.3119,systemic_lupus
+ENSG00000082175,PGR,progesterone receptor,0.3101,systemic_lupus
+ENSG00000185507,IRF7,interferon regulatory factor 7,0.3096,systemic_lupus
+ENSG00000129003,VPS13C,vacuolar protein sorting 13 homolog C,0.3084,systemic_lupus
+ENSG00000159685,CHCHD6,coiled-coil-helix-coiled-coil-helix domain containing 6,0.3083,systemic_lupus
+ENSG00000124562,SNRPC,small nuclear ribonucleoprotein polypeptide C,0.3081,systemic_lupus
+ENSG00000075884,ARHGAP15,Rho GTPase activating protein 15,0.3077,systemic_lupus
+ENSG00000196689,TRPV1,transient receptor potential cation channel subfamily V member 1,0.3067,systemic_lupus
+ENSG00000078328,RBFOX1,RNA binding fox-1 homolog 1,0.3064,systemic_lupus
+ENSG00000184613,NELL2,neural EGFL like 2,0.3063,systemic_lupus
+ENSG00000138795,LEF1,lymphoid enhancer binding factor 1,0.306,systemic_lupus
+ENSG00000117480,FAAH,fatty acid amide hydrolase,0.3055,systemic_lupus
+ENSG00000198246,SLC29A3,solute carrier family 29 member 3,0.3052,systemic_lupus
+ENSG00000169896,ITGAM,integrin subunit alpha M,0.305,systemic_lupus
+ENSG00000006704,GTF2IRD1,GTF2I repeat domain containing 1,0.3045,systemic_lupus
+ENSG00000171385,KCND3,potassium voltage-gated channel subfamily D member 3,0.3042,systemic_lupus
+ENSG00000091831,ESR1,estrogen receptor 1,0.3042,systemic_lupus
+ENSG00000145681,HAPLN1,hyaluronan and proteoglycan link protein 1,0.3041,systemic_lupus
+ENSG00000140968,IRF8,interferon regulatory factor 8,0.3023,systemic_lupus
+ENSG00000139174,PRICKLE1,prickle planar cell polarity protein 1,0.3022,systemic_lupus
+ENSG00000196821,ILRUN,inflammation and lipid regulator with UBA-like and NBR1-like domains,0.3022,systemic_lupus
+ENSG00000069122,ADGRF5,adhesion G protein-coupled receptor F5,0.3016,systemic_lupus
+ENSG00000138639,ARHGAP24,Rho GTPase activating protein 24,0.3014,systemic_lupus
+ENSG00000182752,PAPPA,pappalysin 1,0.3009,systemic_lupus
+ENSG00000105185,PDCD5,programmed cell death 5,0.3007,systemic_lupus
+ENSG00000166501,PRKCB,protein kinase C beta,0.3005,systemic_lupus
+ENSG00000105639,JAK3,Janus kinase 3,0.3003,systemic_lupus
+ENSG00000017260,ATP2C1,ATPase secretory pathway Ca2+ transporting 1,0.3,systemic_lupus
+ENSG00000115145,STAM2,signal transducing adaptor molecule 2,0.3,systemic_lupus
+ENSG00000117114,ADGRL2,adhesion G protein-coupled receptor L2,0.2995,systemic_lupus
+ENSG00000185651,UBE2L3,ubiquitin conjugating enzyme E2 L3,0.2982,systemic_lupus
+ENSG00000151812,SLC35F4,solute carrier family 35 member F4,0.2973,systemic_lupus
+ENSG00000111262,KCNA1,potassium voltage-gated channel subfamily A member 1,0.2955,systemic_lupus
+ENSG00000163435,ELF3,E74 like ETS transcription factor 3,0.2952,systemic_lupus
+ENSG00000072818,ACAP1,"ArfGAP with coiled-coil, ankyrin repeat and PH domains 1",0.295,systemic_lupus
+ENSG00000169071,ROR2,receptor tyrosine kinase like orphan receptor 2,0.2948,systemic_lupus
+ENSG00000126653,NSRP1,nuclear speckle splicing regulatory protein 1,0.2947,systemic_lupus
+ENSG00000186918,ZNF395,zinc finger protein 395,0.2934,systemic_lupus
+ENSG00000101911,PRPS2,phosphoribosyl pyrophosphate synthetase 2,0.293,systemic_lupus
+ENSG00000122025,FLT3,fms related receptor tyrosine kinase 3,0.2927,systemic_lupus
+ENSG00000275342,PRAG1,"PEAK1 related, kinase-activating pseudokinase 1",0.2927,systemic_lupus
+ENSG00000183036,PCP4,Purkinje cell protein 4,0.2925,systemic_lupus
+ENSG00000155561,NUP205,nucleoporin 205,0.2912,systemic_lupus
+ENSG00000100321,SYNGR1,synaptogyrin 1,0.291,systemic_lupus
+ENSG00000134532,SOX5,SRY-box transcription factor 5,0.2904,systemic_lupus
+ENSG00000088832,FKBP1A,FKBP prolyl isomerase 1A,0.2903,systemic_lupus
+ENSG00000134461,ANKRD16,ankyrin repeat domain 16,0.2902,systemic_lupus
+ENSG00000133195,SLC39A11,solute carrier family 39 member 11,0.2896,systemic_lupus
+ENSG00000228075,BOD1L2,biorientation of chromosomes in cell division 1 like 2,0.2895,systemic_lupus
+ENSG00000138829,FBN2,fibrillin 2,0.2889,systemic_lupus
+ENSG00000152133,GPATCH11,G-patch domain containing 11,0.2885,systemic_lupus
+ENSG00000162594,IL23R,interleukin 23 receptor,0.2881,systemic_lupus
+ENSG00000104901,DKKL1,dickkopf like acrosomal protein 1,0.2879,systemic_lupus
+ENSG00000168538,TRAPPC11,trafficking protein particle complex subunit 11,0.2861,systemic_lupus
+ENSG00000184979,USP18,ubiquitin specific peptidase 18,0.2859,systemic_lupus
+ENSG00000047056,WDR37,WD repeat domain 37,0.2859,systemic_lupus
+ENSG00000176920,FUT2,fucosyltransferase 2 (H blood group),0.2858,systemic_lupus
+ENSG00000116698,SMG7,SMG7 nonsense mediated mRNA decay factor,0.2849,systemic_lupus
+ENSG00000124191,TOX2,TOX high mobility group box family member 2,0.2845,systemic_lupus
+ENSG00000171262,FAM98B,family with sequence similarity 98 member B,0.2844,systemic_lupus
+ENSG00000089127,OAS1,2'-5'-oligoadenylate synthetase 1,0.2838,systemic_lupus
+ENSG00000092421,SEMA6A,semaphorin 6A,0.2836,systemic_lupus
+ENSG00000170946,DNAJC24,DnaJ heat shock protein family (Hsp40) member C24,0.2829,systemic_lupus
+ENSG00000148948,LRRC4C,leucine rich repeat containing 4C,0.2829,systemic_lupus
+ENSG00000157064,NMNAT2,nicotinamide nucleotide adenylyltransferase 2,0.2818,systemic_lupus
+ENSG00000134882,UBAC2,UBA domain containing 2,0.2816,systemic_lupus
+ENSG00000155393,HEATR3,HEAT repeat containing 3,0.2812,systemic_lupus
+ENSG00000159110,IFNAR2,interferon alpha and beta receptor subunit 2,0.2811,systemic_lupus
+ENSG00000181026,AEN,apoptosis enhancing nuclease,0.2807,systemic_lupus
+ENSG00000240505,TNFRSF13B,TNF receptor superfamily member 13B,0.2805,systemic_lupus
+ENSG00000197977,ELOVL2,ELOVL fatty acid elongase 2,0.2802,systemic_lupus
+ENSG00000120149,MSX2,msh homeobox 2,0.2802,systemic_lupus
+ENSG00000109323,MANBA,mannosidase beta,0.2796,systemic_lupus
+ENSG00000076356,PLXNA2,plexin A2,0.2795,systemic_lupus
+ENSG00000104237,RP1,RP1 axonemal microtubule associated,0.2793,systemic_lupus
+ENSG00000160145,KALRN,kalirin RhoGEF kinase,0.2793,systemic_lupus
+ENSG00000166949,SMAD3,SMAD family member 3,0.2793,systemic_lupus
+ENSG00000155093,PTPRN2,protein tyrosine phosphatase receptor type N2,0.279,systemic_lupus
+ENSG00000115419,GLS,glutaminase,0.2783,systemic_lupus
+ENSG00000136267,DGKB,diacylglycerol kinase beta,0.2779,systemic_lupus
+ENSG00000134283,PPHLN1,periphilin 1,0.2775,systemic_lupus
+ENSG00000187118,CMC1,C-X9-C motif containing 1,0.2769,systemic_lupus
+ENSG00000113845,TIMMDC1,translocase of inner mitochondrial membrane domain containing 1,0.2765,systemic_lupus
+ENSG00000176771,NCKAP5,NCK associated protein 5,0.2761,systemic_lupus
+ENSG00000140009,ESR2,estrogen receptor 2,0.2752,systemic_lupus
+ENSG00000140470,ADAMTS17,ADAM metallopeptidase with thrombospondin type 1 motif 17,0.2735,systemic_lupus
+ENSG00000175806,MSRA,methionine sulfoxide reductase A,0.2733,systemic_lupus
+ENSG00000183625,CCR3,C-C motif chemokine receptor 3,0.2733,systemic_lupus
+ENSG00000168944,CEP120,centrosomal protein 120,0.2727,systemic_lupus
+ENSG00000138944,SHISAL1,shisa like 1,0.2711,systemic_lupus
+ENSG00000111913,RIPOR2,RHO family interacting cell polarization regulator 2,0.2702,systemic_lupus
+ENSG00000140396,NCOA2,nuclear receptor coactivator 2,0.2701,systemic_lupus
+ENSG00000164741,DLC1,DLC1 Rho GTPase activating protein,0.27,systemic_lupus
+ENSG00000111252,SH2B3,SH2B adaptor protein 3,0.267,systemic_lupus
+ENSG00000116199,FAM20B,FAM20B glycosaminoglycan xylosylkinase,0.2666,systemic_lupus
+ENSG00000253506,NACA2,nascent polypeptide associated complex subunit alpha 2,0.2655,systemic_lupus
+ENSG00000168291,PDHB,pyruvate dehydrogenase E1 subunit beta,0.2653,systemic_lupus
+ENSG00000163377,TAFA4,TAFA chemokine like family member 4,0.265,systemic_lupus
+ENSG00000177694,NAALADL2,N-acetylated alpha-linked acidic dipeptidase like 2,0.265,systemic_lupus
+ENSG00000095383,TBC1D2,TBC1 domain family member 2,0.2645,systemic_lupus
+ENSG00000079691,CARMIL1,capping protein regulator and myosin 1 linker 1,0.2644,systemic_lupus
+ENSG00000117152,RGS4,regulator of G protein signaling 4,0.2634,systemic_lupus
+ENSG00000172890,NADSYN1,NAD synthetase 1,0.2629,systemic_lupus
+ENSG00000179088,C12orf42,chromosome 12 open reading frame 42,0.2627,systemic_lupus
+ENSG00000228716,DHFR,dihydrofolate reductase,0.2601,systemic_lupus
+ENSG00000204271,SPIN3,spindlin family member 3,0.2592,systemic_lupus
+ENSG00000197584,KCNMB2,potassium calcium-activated channel subfamily M regulatory beta subunit 2,0.2582,systemic_lupus
+ENSG00000134871,COL4A2,collagen type IV alpha 2 chain,0.2566,systemic_lupus
+ENSG00000145287,PLAC8,placenta associated 8,0.2547,systemic_lupus
+ENSG00000102606,ARHGEF7,Rho guanine nucleotide exchange factor 7,0.253,systemic_lupus
+ENSG00000085274,MYNN,myoneurin,0.2528,systemic_lupus
+ENSG00000127124,HIVEP3,HIVEP zinc finger 3,0.2528,systemic_lupus
+ENSG00000183117,CSMD1,CUB and Sushi multiple domains 1,0.2526,systemic_lupus
+ENSG00000101440,ASIP,agouti signaling protein,0.2514,systemic_lupus
+ENSG00000111817,DSE,dermatan sulfate epimerase,0.2511,systemic_lupus
+ENSG00000071575,TRIB2,tribbles pseudokinase 2,0.2501,systemic_lupus
+ENSG00000145012,LPP,LIM domain containing preferred translocation partner in lipoma,0.2493,systemic_lupus
+ENSG00000145934,TENM2,teneurin transmembrane protein 2,0.2488,systemic_lupus
+ENSG00000198265,HELZ,helicase with zinc finger,0.2483,systemic_lupus
+ENSG00000176399,DMRTA1,DMRT like family A1,0.2476,systemic_lupus
+ENSG00000086730,LAT2,linker for activation of T cells family member 2,0.2473,systemic_lupus
+ENSG00000119125,GDA,guanine deaminase,0.2471,systemic_lupus
+ENSG00000161955,TNFSF13,TNF superfamily member 13,0.2464,systemic_lupus
+ENSG00000168619,ADAM18,ADAM metallopeptidase domain 18,0.2448,systemic_lupus
+ENSG00000197256,KANK2,KN motif and ankyrin repeat domains 2,0.2447,systemic_lupus
+ENSG00000185345,PRKN,parkin RBR E3 ubiquitin protein ligase,0.2443,systemic_lupus
+ENSG00000186591,UBE2H,ubiquitin conjugating enzyme E2 H,0.2435,systemic_lupus
+ENSG00000124782,RREB1,ras responsive element binding protein 1,0.2427,systemic_lupus
+ENSG00000126218,F10,coagulation factor X,0.2425,systemic_lupus
+ENSG00000113580,NR3C1,nuclear receptor subfamily 3 group C member 1,0.6842,multiple_sclerosis
+ENSG00000134460,IL2RA,interleukin 2 receptor subunit alpha,0.6647,multiple_sclerosis
+ENSG00000067182,TNFRSF1A,TNF receptor superfamily member 1A,0.6569,multiple_sclerosis
+ENSG00000079999,KEAP1,kelch like ECH associated protein 1,0.642,multiple_sclerosis
+ENSG00000156738,MS4A1,membrane spanning 4-domains A1,0.6228,multiple_sclerosis
+ENSG00000170989,S1PR1,sphingosine-1-phosphate receptor 1,0.6085,multiple_sclerosis
+ENSG00000142166,IFNAR1,interferon alpha and beta receptor subunit 1,0.6064,multiple_sclerosis
+ENSG00000180739,S1PR5,sphingosine-1-phosphate receptor 5,0.6063,multiple_sclerosis
+ENSG00000159110,IFNAR2,interferon alpha and beta receptor subunit 2,0.6048,multiple_sclerosis
+ENSG00000267534,S1PR2,sphingosine-1-phosphate receptor 2,0.6034,multiple_sclerosis
+ENSG00000213694,S1PR3,sphingosine-1-phosphate receptor 3,0.6015,multiple_sclerosis
+ENSG00000183960,KCNH8,potassium voltage-gated channel subfamily H member 8,0.6012,multiple_sclerosis
+ENSG00000125910,S1PR4,sphingosine-1-phosphate receptor 4,0.6004,multiple_sclerosis
+ENSG00000115232,ITGA4,integrin subunit alpha 4,0.5995,multiple_sclerosis
+ENSG00000102967,DHODH,dihydroorotate dehydrogenase (quinone),0.5992,multiple_sclerosis
+ENSG00000150093,ITGB1,integrin subunit beta 1,0.5976,multiple_sclerosis
+ENSG00000177272,KCNA3,potassium voltage-gated channel subfamily A member 3,0.5972,multiple_sclerosis
+ENSG00000139626,ITGB7,integrin subunit beta 7,0.5951,multiple_sclerosis
+ENSG00000184611,KCNH7,potassium voltage-gated channel subfamily H member 7,0.5924,multiple_sclerosis
+ENSG00000177301,KCNA2,potassium voltage-gated channel subfamily A member 2,0.5911,multiple_sclerosis
+ENSG00000111262,KCNA1,potassium voltage-gated channel subfamily A member 1,0.5909,multiple_sclerosis
+ENSG00000171385,KCND3,potassium voltage-gated channel subfamily D member 3,0.5909,multiple_sclerosis
+ENSG00000182255,KCNA4,potassium voltage-gated channel subfamily A member 4,0.5909,multiple_sclerosis
+ENSG00000185760,KCNQ5,potassium voltage-gated channel subfamily Q member 5,0.5908,multiple_sclerosis
+ENSG00000026559,KCNG1,potassium voltage-gated channel modifier subfamily G member 1,0.5903,multiple_sclerosis
+ENSG00000164794,KCNV1,potassium voltage-gated channel modifier subfamily V member 1,0.5898,multiple_sclerosis
+ENSG00000143473,KCNH1,potassium voltage-gated channel subfamily H member 1,0.5898,multiple_sclerosis
+ENSG00000184156,KCNQ3,potassium voltage-gated channel subfamily Q member 3,0.5898,multiple_sclerosis
+ENSG00000104848,KCNA7,potassium voltage-gated channel subfamily A member 7,0.5898,multiple_sclerosis
+ENSG00000140015,KCNH5,potassium voltage-gated channel subfamily H member 5,0.5898,multiple_sclerosis
+ENSG00000129159,KCNC1,potassium voltage-gated channel subfamily C member 1,0.5898,multiple_sclerosis
+ENSG00000168263,KCNV2,potassium voltage-gated channel modifier subfamily V member 2,0.5898,multiple_sclerosis
+ENSG00000075043,KCNQ2,potassium voltage-gated channel subfamily Q member 2,0.5898,multiple_sclerosis
+ENSG00000131398,KCNC3,potassium voltage-gated channel subfamily C member 3,0.5898,multiple_sclerosis
+ENSG00000178342,KCNG2,potassium voltage-gated channel modifier subfamily G member 2,0.5898,multiple_sclerosis
+ENSG00000171126,KCNG3,potassium voltage-gated channel modifier subfamily G member 3,0.5898,multiple_sclerosis
+ENSG00000053918,KCNQ1,potassium voltage-gated channel subfamily Q member 1,0.5898,multiple_sclerosis
+ENSG00000173826,KCNH6,potassium voltage-gated channel subfamily H member 6,0.5898,multiple_sclerosis
+ENSG00000158445,KCNB1,potassium voltage-gated channel subfamily B member 1,0.5898,multiple_sclerosis
+ENSG00000168418,KCNG4,potassium voltage-gated channel modifier subfamily G member 4,0.5898,multiple_sclerosis
+ENSG00000130037,KCNA5,potassium voltage-gated channel subfamily A member 5,0.5898,multiple_sclerosis
+ENSG00000055118,KCNH2,potassium voltage-gated channel subfamily H member 2,0.5898,multiple_sclerosis
+ENSG00000117013,KCNQ4,potassium voltage-gated channel subfamily Q member 4,0.5898,multiple_sclerosis
+ENSG00000124134,KCNS1,potassium voltage-gated channel modifier subfamily S member 1,0.5898,multiple_sclerosis
+ENSG00000151079,KCNA6,potassium voltage-gated channel subfamily A member 6,0.5898,multiple_sclerosis
+ENSG00000116396,KCNC4,potassium voltage-gated channel subfamily C member 4,0.5898,multiple_sclerosis
+ENSG00000156486,KCNS2,potassium voltage-gated channel modifier subfamily S member 2,0.5898,multiple_sclerosis
+ENSG00000162975,KCNF1,potassium voltage-gated channel modifier subfamily F member 1,0.5898,multiple_sclerosis
+ENSG00000089558,KCNH4,potassium voltage-gated channel subfamily H member 4,0.5898,multiple_sclerosis
+ENSG00000182674,KCNB2,potassium voltage-gated channel subfamily B member 2,0.5898,multiple_sclerosis
+ENSG00000170745,KCNS3,potassium voltage-gated channel modifier subfamily S member 3,0.5898,multiple_sclerosis
+ENSG00000143105,KCNA10,potassium voltage-gated channel subfamily A member 10,0.5898,multiple_sclerosis
+ENSG00000166006,KCNC2,potassium voltage-gated channel subfamily C member 2,0.5898,multiple_sclerosis
+ENSG00000184408,KCND2,potassium voltage-gated channel subfamily D member 2,0.5898,multiple_sclerosis
+ENSG00000102057,KCND1,potassium voltage-gated channel subfamily D member 1,0.5898,multiple_sclerosis
+ENSG00000135519,KCNH3,potassium voltage-gated channel subfamily H member 3,0.5898,multiple_sclerosis
+ENSG00000113161,HMGCR,3-hydroxy-3-methylglutaryl-CoA reductase,0.5897,multiple_sclerosis
+ENSG00000134352,IL6ST,interleukin 6 cytokine family signal transducer,0.587,multiple_sclerosis
+ENSG00000160712,IL6R,interleukin 6 receptor,0.5827,multiple_sclerosis
+ENSG00000177455,CD19,CD19 molecule,0.5762,multiple_sclerosis
+ENSG00000168685,IL7R,interleukin 7 receptor,0.5756,multiple_sclerosis
+ENSG00000169442,CD52,CD52 molecule,0.5712,multiple_sclerosis
+ENSG00000204681,GABBR1,gamma-aminobutyric acid type B receptor subunit 1,0.5696,multiple_sclerosis
+ENSG00000136928,GABBR2,gamma-aminobutyric acid type B receptor subunit 2,0.5692,multiple_sclerosis
+ENSG00000185231,MC2R,melanocortin 2 receptor,0.5639,multiple_sclerosis
+ENSG00000119421,NDUFA8,NADH:ubiquinone oxidoreductase subunit A8,0.5541,multiple_sclerosis
+ENSG00000168653,NDUFS5,NADH:ubiquinone oxidoreductase subunit S5,0.5539,multiple_sclerosis
+ENSG00000178127,NDUFV2,NADH:ubiquinone oxidoreductase core subunit V2,0.5525,multiple_sclerosis
+ENSG00000023228,NDUFS1,NADH:ubiquinone oxidoreductase core subunit S1,0.5489,multiple_sclerosis
+ENSG00000100385,IL2RB,interleukin 2 receptor subunit beta,0.5475,multiple_sclerosis
+ENSG00000147168,IL2RG,interleukin 2 receptor subunit gamma,0.5467,multiple_sclerosis
+ENSG00000116815,CD58,CD58 molecule,0.546,multiple_sclerosis
+ENSG00000125735,TNFSF14,TNF superfamily member 14,0.5374,multiple_sclerosis
+ENSG00000158864,NDUFS2,NADH:ubiquinone oxidoreductase core subunit S2,0.5368,multiple_sclerosis
+ENSG00000124762,CDKN1A,cyclin dependent kinase inhibitor 1A,0.5329,multiple_sclerosis
+ENSG00000167601,AXL,AXL receptor tyrosine kinase,0.5313,multiple_sclerosis
+ENSG00000197746,PSAP,prosaposin,0.5292,multiple_sclerosis
+ENSG00000139180,NDUFA9,NADH:ubiquinone oxidoreductase subunit A9,0.5286,multiple_sclerosis
+ENSG00000082701,GSK3B,glycogen synthase kinase 3 beta,0.5283,multiple_sclerosis
+ENSG00000094755,GABRP,gamma-aminobutyric acid type A receptor subunit pi,0.5278,multiple_sclerosis
+ENSG00000178999,AURKB,aurora kinase B,0.5271,multiple_sclerosis
+ENSG00000114013,CD86,CD86 molecule,0.5269,multiple_sclerosis
+ENSG00000164167,LSM6,"LSM6 homolog, U6 small nuclear RNA and mRNA degradation associated",0.5261,multiple_sclerosis
+ENSG00000135446,CDK4,cyclin dependent kinase 4,0.5261,multiple_sclerosis
+ENSG00000166851,PLK1,polo like kinase 1,0.5261,multiple_sclerosis
+ENSG00000129757,CDKN1C,cyclin dependent kinase inhibitor 1C,0.5249,multiple_sclerosis
+ENSG00000058729,RIOK2,RIO kinase 2,0.5244,multiple_sclerosis
+ENSG00000004779,NDUFAB1,NADH:ubiquinone oxidoreductase subunit AB1,0.5226,multiple_sclerosis
+ENSG00000099795,NDUFB7,NADH:ubiquinone oxidoreductase subunit B7,0.5224,multiple_sclerosis
+ENSG00000166311,SMPD1,sphingomyelin phosphodiesterase 1,0.519,multiple_sclerosis
+ENSG00000147416,ATP6V1B2,ATPase H+ transporting V1 subunit B2,0.5174,multiple_sclerosis
+ENSG00000067533,RRP15,ribosomal RNA processing 15 homolog,0.5171,multiple_sclerosis
+ENSG00000135486,HNRNPA1,heterogeneous nuclear ribonucleoprotein A1,0.5159,multiple_sclerosis
+ENSG00000170312,CDK1,cyclin dependent kinase 1,0.5128,multiple_sclerosis
+ENSG00000106804,C5,complement C5,0.5069,multiple_sclerosis
+ENSG00000101224,CDC25B,cell division cycle 25B,0.505,multiple_sclerosis
+ENSG00000198563,DDX39B,DExD-box helicase 39B,0.5041,multiple_sclerosis
+ENSG00000120539,MASTL,microtubule associated serine/threonine kinase like,0.504,multiple_sclerosis
+ENSG00000131408,NR1H2,nuclear receptor subfamily 1 group H member 2,0.5038,multiple_sclerosis
+ENSG00000143374,TARS2,"threonyl-tRNA synthetase 2, mitochondrial",0.503,multiple_sclerosis
+ENSG00000100330,MTMR3,myotubularin related protein 3,0.503,multiple_sclerosis
+ENSG00000023516,AKAP11,A-kinase anchoring protein 11,0.5027,multiple_sclerosis
+ENSG00000155097,ATP6V1C1,ATPase H+ transporting V1 subunit C1,0.5015,multiple_sclerosis
+ENSG00000167258,CDK12,cyclin dependent kinase 12,0.5013,multiple_sclerosis
+ENSG00000147889,CDKN2A,cyclin dependent kinase inhibitor 2A,0.4996,multiple_sclerosis
+ENSG00000143393,PI4KB,phosphatidylinositol 4-kinase beta,0.4993,multiple_sclerosis
+ENSG00000087586,AURKA,aurora kinase A,0.4985,multiple_sclerosis
+ENSG00000114573,ATP6V1A,ATPase H+ transporting V1 subunit A,0.4981,multiple_sclerosis
+ENSG00000010256,UQCRC1,ubiquinol-cytochrome c reductase core protein 1,0.4981,multiple_sclerosis
+ENSG00000115020,PIKFYVE,"phosphoinositide kinase, FYVE-type zinc finger containing",0.4978,multiple_sclerosis
+ENSG00000139505,MTMR6,myotubularin related protein 6,0.4977,multiple_sclerosis
+ENSG00000113712,CSNK1A1,casein kinase 1 alpha 1,0.4962,multiple_sclerosis
+ENSG00000147684,NDUFB9,NADH:ubiquinone oxidoreductase subunit B9,0.4951,multiple_sclerosis
+ENSG00000147883,CDKN2B,cyclin dependent kinase inhibitor 2B,0.495,multiple_sclerosis
+ENSG00000164615,CAMLG,calcium modulating ligand,0.4942,multiple_sclerosis
+ENSG00000151366,NDUFC2,NADH:ubiquinone oxidoreductase subunit C2,0.4928,multiple_sclerosis
+ENSG00000110448,CD5,CD5 molecule,0.4913,multiple_sclerosis
+ENSG00000110717,NDUFS8,NADH:ubiquinone oxidoreductase core subunit S8,0.4899,multiple_sclerosis
+ENSG00000184983,NDUFA6,NADH:ubiquinone oxidoreductase subunit A6,0.4899,multiple_sclerosis
+ENSG00000128609,NDUFA5,NADH:ubiquinone oxidoreductase subunit A5,0.4889,multiple_sclerosis
+ENSG00000130294,KIF1A,kinesin family member 1A,0.4821,multiple_sclerosis
+ENSG00000157554,ERG,ETS transcription factor ERG,0.4821,multiple_sclerosis
+ENSG00000168811,IL12A,interleukin 12A,0.481,multiple_sclerosis
+ENSG00000019186,CYP24A1,cytochrome P450 family 24 subfamily A member 1,0.4796,multiple_sclerosis
+ENSG00000131747,TOP2A,DNA topoisomerase II alpha,0.4769,multiple_sclerosis
+ENSG00000109390,NDUFC1,NADH:ubiquinone oxidoreductase subunit C1,0.4765,multiple_sclerosis
+ENSG00000167792,NDUFV1,NADH:ubiquinone oxidoreductase core subunit V1,0.4706,multiple_sclerosis
+ENSG00000164691,TAGAP,T cell activation RhoGTPase activating protein,0.4699,multiple_sclerosis
+ENSG00000141510,TP53,tumor protein p53,0.4698,multiple_sclerosis
+ENSG00000198793,MTOR,mechanistic target of rapamycin kinase,0.4686,multiple_sclerosis
+ENSG00000051382,PIK3CB,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta",0.4682,multiple_sclerosis
+ENSG00000176884,GRIN1,glutamate ionotropic receptor NMDA type subunit 1,0.4681,multiple_sclerosis
+ENSG00000134824,FADS2,fatty acid desaturase 2,0.4678,multiple_sclerosis
+ENSG00000168610,STAT3,signal transducer and activator of transcription 3,0.4674,multiple_sclerosis
+ENSG00000090104,RGS1,regulator of G protein signaling 1,0.4655,multiple_sclerosis
+ENSG00000065518,NDUFB4,NADH:ubiquinone oxidoreductase subunit B4,0.4648,multiple_sclerosis
+ENSG00000079263,SP140,SP140 nuclear body protein,0.4648,multiple_sclerosis
+ENSG00000163513,TGFBR2,transforming growth factor beta receptor 2,0.464,multiple_sclerosis
+ENSG00000181789,COPG1,coat protein complex I subunit gamma 1,0.4638,multiple_sclerosis
+ENSG00000099194,SCD,stearoyl-CoA desaturase,0.4635,multiple_sclerosis
+ENSG00000204386,NEU1,neuraminidase 1,0.463,multiple_sclerosis
+ENSG00000106348,IMPDH1,inosine monophosphate dehydrogenase 1,0.463,multiple_sclerosis
+ENSG00000125686,MED1,mediator complex subunit 1,0.4629,multiple_sclerosis
+ENSG00000196396,PTPN1,protein tyrosine phosphatase non-receptor type 1,0.4628,multiple_sclerosis
+ENSG00000165646,SLC18A2,solute carrier family 18 member A2,0.4628,multiple_sclerosis
+ENSG00000149084,HSD17B12,hydroxysteroid 17-beta dehydrogenase 12,0.4627,multiple_sclerosis
+ENSG00000171566,PLRG1,pleiotropic regulator 1,0.4625,multiple_sclerosis
+ENSG00000165733,BMS1,BMS1 ribosome biogenesis factor,0.4625,multiple_sclerosis
+ENSG00000082898,XPO1,exportin 1,0.4625,multiple_sclerosis
+ENSG00000129083,COPB1,coat protein complex I subunit beta 1,0.462,multiple_sclerosis
+ENSG00000064419,TNPO3,transportin 3,0.462,multiple_sclerosis
+ENSG00000133059,DSTYK,dual serine/threonine and tyrosine protein kinase,0.462,multiple_sclerosis
+ENSG00000112159,MDN1,midasin AAA ATPase 1,0.462,multiple_sclerosis
+ENSG00000102900,NUP93,nucleoporin 93,0.462,multiple_sclerosis
+ENSG00000196743,GM2A,ganglioside GM2 activator,0.462,multiple_sclerosis
+ENSG00000119616,FCF1,FCF1 rRNA-processing protein,0.462,multiple_sclerosis
+ENSG00000109111,SUPT6H,"SPT6 homolog, histone chaperone and transcription elongation factor",0.462,multiple_sclerosis
+ENSG00000155561,NUP205,nucleoporin 205,0.462,multiple_sclerosis
+ENSG00000135521,LTV1,LTV1 ribosome biogenesis factor,0.462,multiple_sclerosis
+ENSG00000182004,SNRPE,small nuclear ribonucleoprotein polypeptide E,0.462,multiple_sclerosis
+ENSG00000158615,PPP1R15B,protein phosphatase 1 regulatory subunit 15B,0.462,multiple_sclerosis
+ENSG00000122218,COPA,coat protein complex I subunit alpha,0.462,multiple_sclerosis
+ENSG00000159140,SON,SON DNA and RNA binding protein,0.462,multiple_sclerosis
+ENSG00000157020,SEC13,"SEC13 homolog, nuclear pore and COPII component",0.462,multiple_sclerosis
+ENSG00000048162,NOP16,NOP16 nucleolar protein,0.462,multiple_sclerosis
+ENSG00000141367,CLTC,clathrin heavy chain,0.462,multiple_sclerosis
+ENSG00000168297,PXK,PX domain containing serine/threonine kinase like,0.462,multiple_sclerosis
+ENSG00000204569,PPP1R10,protein phosphatase 1 regulatory subunit 10,0.462,multiple_sclerosis
+ENSG00000111481,COPZ1,coat protein complex I subunit zeta 1,0.462,multiple_sclerosis
+ENSG00000103174,NAGPA,N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase,0.462,multiple_sclerosis
+ENSG00000161203,AP2M1,adaptor related protein complex 2 subunit mu 1,0.462,multiple_sclerosis
+ENSG00000112335,SNX3,sorting nexin 3,0.462,multiple_sclerosis
+ENSG00000065328,MCM10,minichromosome maintenance 10 replication initiation factor,0.462,multiple_sclerosis
+ENSG00000010244,ZNF207,zinc finger protein 207,0.462,multiple_sclerosis
+ENSG00000163719,MTMR14,myotubularin related protein 14,0.462,multiple_sclerosis
+ENSG00000177971,IMP3,IMP U3 small nucleolar ribonucleoprotein 3,0.462,multiple_sclerosis
+ENSG00000119285,HEATR1,HEAT repeat containing 1,0.462,multiple_sclerosis
+ENSG00000115524,SF3B1,splicing factor 3b subunit 1,0.462,multiple_sclerosis
+ENSG00000138756,BMP2K,BMP2 inducible kinase,0.462,multiple_sclerosis
+ENSG00000100028,SNRPD3,small nuclear ribonucleoprotein D3 polypeptide,0.462,multiple_sclerosis
+ENSG00000130810,PPAN,peter pan homolog,0.462,multiple_sclerosis
+ENSG00000103510,KAT8,lysine acetyltransferase 8,0.462,multiple_sclerosis
+ENSG00000150990,DHX37,DEAH-box helicase 37,0.462,multiple_sclerosis
+ENSG00000186185,KIF18B,kinesin family member 18B,0.462,multiple_sclerosis
+ENSG00000184432,COPB2,coat protein complex I subunit beta 2,0.462,multiple_sclerosis
+ENSG00000006712,PAF1,PAF1 component of Paf1/RNA polymerase II complex,0.4619,multiple_sclerosis
+ENSG00000278540,ACACA,acetyl-CoA carboxylase alpha,0.461,multiple_sclerosis
+ENSG00000042753,AP2S1,adaptor related protein complex 2 subunit sigma 1,0.4604,multiple_sclerosis
+ENSG00000178035,IMPDH2,inosine monophosphate dehydrogenase 2,0.4601,multiple_sclerosis
+ENSG00000134853,PDGFRA,platelet derived growth factor receptor alpha,0.4597,multiple_sclerosis
+ENSG00000198554,WDHD1,WD repeat and HMG-box DNA binding protein 1,0.4594,multiple_sclerosis
+ENSG00000184967,NOC4L,nucleolar complex associated 4 homolog,0.4594,multiple_sclerosis
+ENSG00000153253,SCN3A,sodium voltage-gated channel alpha subunit 3,0.4593,multiple_sclerosis
+ENSG00000131238,PPT1,palmitoyl-protein thioesterase 1,0.4583,multiple_sclerosis
+ENSG00000117411,B4GALT2,"beta-1,4-galactosyltransferase 2",0.458,multiple_sclerosis
+ENSG00000062598,ELMO2,engulfment and cell motility 2,0.456,multiple_sclerosis
+ENSG00000067208,EVI5,ecotropic viral integration site 5,0.4559,multiple_sclerosis
+ENSG00000101017,CD40,CD40 molecule,0.4555,multiple_sclerosis
+ENSG00000073060,SCARB1,scavenger receptor class B member 1,0.4552,multiple_sclerosis
+ENSG00000137876,RSL24D1,ribosomal L24 domain containing 1,0.4546,multiple_sclerosis
+ENSG00000106799,TGFBR1,transforming growth factor beta receptor 1,0.4546,multiple_sclerosis
+ENSG00000107862,GBF1,golgi brefeldin A resistant guanine nucleotide exchange factor 1,0.4541,multiple_sclerosis
+ENSG00000145675,PIK3R1,phosphoinositide-3-kinase regulatory subunit 1,0.4537,multiple_sclerosis
+ENSG00000127947,PTPN12,protein tyrosine phosphatase non-receptor type 12,0.4522,multiple_sclerosis
+ENSG00000109270,LAMTOR3,"late endosomal/lysosomal adaptor, MAPK and MTOR activator 3",0.452,multiple_sclerosis
+ENSG00000132842,AP3B1,adaptor related protein complex 3 subunit beta 1,0.4517,multiple_sclerosis
+ENSG00000086189,DIMT1,DIM1 rRNA methyltransferase and ribosome maturation factor,0.4513,multiple_sclerosis
+ENSG00000188428,BLOC1S5,biogenesis of lysosomal organelles complex 1 subunit 5,0.4513,multiple_sclerosis
+ENSG00000109606,DHX15,DEAH-box helicase 15,0.4513,multiple_sclerosis
+ENSG00000075785,RAB7A,"RAB7A, member RAS oncogene family",0.4508,multiple_sclerosis
+ENSG00000100241,SBF1,SET binding factor 1,0.4504,multiple_sclerosis
+ENSG00000163399,ATP1A1,ATPase Na+/K+ transporting subunit alpha 1,0.4485,multiple_sclerosis
+ENSG00000135541,AHI1,Abelson helper integration site 1,0.4478,multiple_sclerosis
+ENSG00000167447,SMG8,SMG8 nonsense mediated mRNA decay factor,0.4471,multiple_sclerosis
+ENSG00000205339,IPO7,importin 7,0.4454,multiple_sclerosis
+ENSG00000141499,WRAP53,WD repeat containing antisense to TP53,0.4435,multiple_sclerosis
+ENSG00000125743,SNRPD2,small nuclear ribonucleoprotein D2 polypeptide,0.4431,multiple_sclerosis
+ENSG00000156471,PTDSS1,phosphatidylserine synthase 1,0.4422,multiple_sclerosis
+ENSG00000160551,TAOK1,TAO kinase 1,0.4418,multiple_sclerosis
+ENSG00000112182,BACH2,BACH transcriptional regulator 2,0.4412,multiple_sclerosis
+ENSG00000176444,CLK2,CDC like kinase 2,0.4408,multiple_sclerosis
+ENSG00000142319,SLC6A3,solute carrier family 6 member 3,0.4406,multiple_sclerosis
+ENSG00000180530,NRIP1,nuclear receptor interacting protein 1,0.439,multiple_sclerosis
+ENSG00000163288,GABRB1,gamma-aminobutyric acid type A receptor subunit beta1,0.4389,multiple_sclerosis
+ENSG00000153814,JAZF1,JAZF zinc finger 1,0.4389,multiple_sclerosis
+ENSG00000123384,LRP1,LDL receptor related protein 1,0.4372,multiple_sclerosis
+ENSG00000164512,ANKRD55,ankyrin repeat domain 55,0.4369,multiple_sclerosis
+ENSG00000104549,SQLE,squalene epoxidase,0.4348,multiple_sclerosis
+ENSG00000181029,TRAPPC5,trafficking protein particle complex subunit 5,0.4348,multiple_sclerosis
+ENSG00000145604,SKP2,S-phase kinase associated protein 2,0.4339,multiple_sclerosis
+ENSG00000103811,CTSH,cathepsin H,0.4339,multiple_sclerosis
+ENSG00000152904,GGPS1,geranylgeranyl diphosphate synthase 1,0.4318,multiple_sclerosis
+ENSG00000113302,IL12B,interleukin 12B,0.4318,multiple_sclerosis
+ENSG00000145741,BTF3,basic transcription factor 3,0.4275,multiple_sclerosis
+ENSG00000010322,NISCH,nischarin,0.4263,multiple_sclerosis
+ENSG00000150712,MTMR12,myotubularin related protein 12,0.4253,multiple_sclerosis
+ENSG00000030066,NUP160,nucleoporin 160,0.4241,multiple_sclerosis
+ENSG00000115112,TFCP2L1,transcription factor CP2 like 1,0.424,multiple_sclerosis
+ENSG00000185650,ZFP36L1,ZFP36 like 1 zinc finger CCCH-type,0.424,multiple_sclerosis
+ENSG00000090060,PAPOLA,poly(A) polymerase alpha,0.4239,multiple_sclerosis
+ENSG00000163788,SNRK,SNF related kinase,0.4235,multiple_sclerosis
+ENSG00000179218,CALR,calreticulin,0.4235,multiple_sclerosis
+ENSG00000010671,BTK,Bruton tyrosine kinase,0.4228,multiple_sclerosis
+ENSG00000092621,PHGDH,phosphoglycerate dehydrogenase,0.4226,multiple_sclerosis
+ENSG00000031823,RANBP3,RAN binding protein 3,0.4225,multiple_sclerosis
+ENSG00000137275,RIPK1,receptor interacting serine/threonine kinase 1,0.4218,multiple_sclerosis
+ENSG00000104643,MTMR9,myotubularin related protein 9,0.4211,multiple_sclerosis
+ENSG00000155657,TTN,titin,0.419,multiple_sclerosis
+ENSG00000164916,FOXK1,forkhead box K1,0.4183,multiple_sclerosis
+ENSG00000107485,GATA3,GATA binding protein 3,0.4175,multiple_sclerosis
+ENSG00000065000,AP3D1,adaptor related protein complex 3 subunit delta 1,0.4175,multiple_sclerosis
+ENSG00000152804,HHEX,hematopoietically expressed homeobox,0.4144,multiple_sclerosis
+ENSG00000143398,PIP5K1A,phosphatidylinositol-4-phosphate 5-kinase type 1 alpha,0.4142,multiple_sclerosis
+ENSG00000198369,SPRED2,sprouty related EVH1 domain containing 2,0.4133,multiple_sclerosis
+ENSG00000114423,CBLB,Cbl proto-oncogene B,0.4125,multiple_sclerosis
+ENSG00000104427,ZC2HC1A,zinc finger C2HC-type containing 1A,0.4117,multiple_sclerosis
+ENSG00000160948,VPS28,VPS28 subunit of ESCRT-I,0.4104,multiple_sclerosis
+ENSG00000179335,CLK3,CDC like kinase 3,0.41,multiple_sclerosis
+ENSG00000008516,MMP25,matrix metallopeptidase 25,0.409,multiple_sclerosis
+ENSG00000167658,EEF2,eukaryotic translation elongation factor 2,0.4073,multiple_sclerosis
+ENSG00000131323,TRAF3,TNF receptor associated factor 3,0.407,multiple_sclerosis
+ENSG00000152782,PANK1,pantothenate kinase 1,0.4068,multiple_sclerosis
+ENSG00000163362,INAVA,innate immunity activator,0.4059,multiple_sclerosis
+ENSG00000156127,BATF,basic leucine zipper ATF-like transcription factor,0.4056,multiple_sclerosis
+ENSG00000196126,HLA-DRB1,"major histocompatibility complex, class II, DR beta 1",0.4038,multiple_sclerosis
+ENSG00000138378,STAT4,signal transducer and activator of transcription 4,0.4034,multiple_sclerosis
+ENSG00000071243,ING3,inhibitor of growth family member 3,0.4023,multiple_sclerosis
+ENSG00000142867,BCL10,BCL10 immune signaling adaptor,0.4018,multiple_sclerosis
+ENSG00000187118,CMC1,C-X9-C motif containing 1,0.4012,multiple_sclerosis
+ENSG00000132470,ITGB4,integrin subunit beta 4,0.3991,multiple_sclerosis
+ENSG00000143171,RXRG,retinoid X receptor gamma,0.3987,multiple_sclerosis
+ENSG00000112425,EPM2A,"EPM2A glucan phosphatase, laforin",0.3983,multiple_sclerosis
+ENSG00000140990,NDUFB10,NADH:ubiquinone oxidoreductase subunit B10,0.3976,multiple_sclerosis
+ENSG00000165264,NDUFB6,NADH:ubiquinone oxidoreductase subunit B6,0.3976,multiple_sclerosis
+ENSG00000166912,MTMR10,myotubularin related protein 10,0.3971,multiple_sclerosis
+ENSG00000115828,QPCT,glutaminyl-peptide cyclotransferase,0.397,multiple_sclerosis
+ENSG00000178209,PLEC,plectin,0.3955,multiple_sclerosis
+ENSG00000176974,SHMT1,serine hydroxymethyltransferase 1,0.3946,multiple_sclerosis
+ENSG00000198945,L3MBTL3,L3MBTL histone methyl-lysine binding protein 3,0.3942,multiple_sclerosis
+ENSG00000142606,MMEL1,membrane metalloendopeptidase like 1,0.3939,multiple_sclerosis
+ENSG00000151914,DST,dystonin,0.3931,multiple_sclerosis
+ENSG00000178573,MAF,MAF bZIP transcription factor,0.3929,multiple_sclerosis
+ENSG00000186417,GLDN,gliomedin,0.3926,multiple_sclerosis
+ENSG00000069493,CLEC2D,C-type lectin domain family 2 member D,0.3918,multiple_sclerosis
+ENSG00000183454,GRIN2A,glutamate ionotropic receptor NMDA type subunit 2A,0.3914,multiple_sclerosis
+ENSG00000156467,UQCRB,ubiquinol-cytochrome c reductase binding protein,0.3901,multiple_sclerosis
+ENSG00000091140,DLD,dihydrolipoamide dehydrogenase,0.3882,multiple_sclerosis
+ENSG00000181467,RAP2B,"RAP2B, member of RAS oncogene family",0.3879,multiple_sclerosis
+ENSG00000060566,CREB3L3,cAMP responsive element binding protein 3 like 3,0.3874,multiple_sclerosis
+ENSG00000213380,COG8,component of oligomeric golgi complex 8,0.3873,multiple_sclerosis
+ENSG00000196639,HRH1,histamine receptor H1,0.3866,multiple_sclerosis
+ENSG00000127527,EPS15L1,epidermal growth factor receptor pathway substrate 15 like 1,0.3861,multiple_sclerosis
+ENSG00000173145,NOC3L,NOC3 like DNA replication regulator,0.3856,multiple_sclerosis
+ENSG00000196218,RYR1,ryanodine receptor 1,0.3844,multiple_sclerosis
+ENSG00000198838,RYR3,ryanodine receptor 3,0.3834,multiple_sclerosis
+ENSG00000111424,VDR,vitamin D receptor,0.3823,multiple_sclerosis
+ENSG00000161509,GRIN2C,glutamate ionotropic receptor NMDA type subunit 2C,0.3808,multiple_sclerosis
+ENSG00000273079,GRIN2B,glutamate ionotropic receptor NMDA type subunit 2B,0.3808,multiple_sclerosis
+ENSG00000100300,TSPO,translocator protein,0.38,multiple_sclerosis
+ENSG00000198785,GRIN3A,glutamate ionotropic receptor NMDA type subunit 3A,0.3797,multiple_sclerosis
