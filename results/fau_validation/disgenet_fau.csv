@@ -1,0 +1,28 @@
+disease_name,disease_type,score,ei,num_pmids,year_initial,year_final,msh_classes,umls_cui
+Malignant neoplasm of soft tissue,[disease],0.25,1.0,3,2003,2015,Neoplasms (C04),C4551686
+Unspecified Abortion,[phenotype],0.25,1.0,2,2015,2021,"Urogenital Diseases (C12); Pathological Conditions, Signs and Symptoms (C23); Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)",C0156543
+Pregnancy loss,[phenotype],0.25,1.0,2,2015,2021,,C0687675
+Sarcoma,[disease],0.25,1.0,3,2003,2015,Neoplasms (C04),C1261473
+Osteosarcoma,[disease],0.2,1.0,3,2003,2019,Neoplasms (C04),C0029463
+History of recurrent miscarriage - not pregnant,[disease],0.2,1.0,2,2018,2021,,C0404439
+Osteosarcoma of bone,[disease],0.2,1.0,2,2018,2019,Neoplasms (C04),C0585442
+Malignant neoplasm of breast,[disease],0.2,1.0,4,2009,2022,Skin and Connective Tissue Diseases (C17); Neoplasms (C04),C0006142
+Breast Carcinoma,[disease],0.2,1.0,4,2009,2022,Neoplasms (C04); Skin and Connective Tissue Diseases (C17),C0678222
+Multiple Endocrine Neoplasia Type 1,[disease],0.1,0.0,1,1993,1993,"Endocrine System Diseases (C19); Neoplasms (C04); Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)",C0025267
+Prostate carcinoma,[disease],0.1,1.0,1,2010,2010,Urogenital Diseases (C12); Neoplasms (C04),C0600139
+Malignant neoplasm of prostate,[disease],0.1,1.0,1,2010,2010,Urogenital Diseases (C12); Neoplasms (C04),C0376358
+Venous Thromboembolism,[disease],0.1,1.0,1,2025,2025,Cardiovascular Diseases (C14),C1861172
+Benign Prostatic Hyperplasia,[phenotype],0.1,1.0,1,2010,2010,Urogenital Diseases (C12),C1704272
+cytotoxicity,[phenotype],0.1,1.0,1,2010,2010,,C0596402
+Metastasis,[phenotype],0.1,1.0,1,2022,2022,,C4255448
+Metastatic Lesion,[phenotype],0.1,1.0,1,2022,2022,,C1513183
+Carcinogenesis,[disease],0.1,1.0,1,2010,2010,"Pathological Conditions, Signs and Symptoms (C23); Neoplasms (C04)",C0596263
+Kidney Diseases,[disease],0.1,1.0,1,2023,2023,Urogenital Diseases (C12),C0022658
+Stomach Carcinoma,[disease],0.1,1.0,1,2016,2016,Neoplasms (C04); Digestive System Diseases (C06),C0699791
+Malignant neoplasm of stomach,[disease],0.1,1.0,1,2016,2016,Neoplasms (C04); Digestive System Diseases (C06),C0024623
+Cystic Fibrosis,[disease],0.1,1.0,1,2022,2022,"Respiratory Tract Diseases (C08); Digestive System Diseases (C06); Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)",C0010674
+"Anemia, Diamond-Blackfan",[disease],0.1,1.0,1,2023,2023,"Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16); Hemic and Lymphatic Diseases (C15)",C1260899
+Ischemic stroke,[disease],0.1,1.0,1,2020,2020,Nervous System Diseases (C10); Cardiovascular Diseases (C14),C0948008
+Premature Cardiac Complex,[disease],0.1,1.0,1,2011,2011,"Cardiovascular Diseases (C14); Pathological Conditions, Signs and Symptoms (C23)",C0340464
+Inflammation,[phenotype],0.1,1.0,1,2023,2023,"Pathological Conditions, Signs and Symptoms (C23)",C0021368
+Aase syndrome,[disease],0.1,1.0,1,2023,2023,"Hemic and Lymphatic Diseases (C15); Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)",C0265265
