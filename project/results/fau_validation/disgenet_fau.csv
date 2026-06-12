@@ -1,0 +1,2 @@
+status,note
+no_data,"DisGeNET v7 requires authentication. Register at https://www.disgenet.org, then set DISGENET_EMAIL and DISGENET_PASSWORD in this script."
